@@ -1,0 +1,484 @@
+nohup: ignoring input
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32mnet.sf.jasperreports.view.JasperViewer(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32mnet.**:org.**(B[m
+generating facts (jars/jasperreports-3.7.4/jasperreports.jar  jars/jasperreports-3.7.4/javaflow.jar jars/jasperreports-3.7.4/lib/ant-1.7.1.jar jars/jasperreports-3.7.4/lib/antlr-2.7.5.jar jars/jasperreports-3.7.4/lib/barbecue-1.5-beta1.jar jars/jasperreports-3.7.4/lib/barcode4j-2.0.jar jars/jasperreports-3.7.4/lib/batik-anim.jar jars/jasperreports-3.7.4/lib/batik-awt-util.jar jars/jasperreports-3.7.4/lib/batik-bridge.jar jars/jasperreports-3.7.4/lib/batik-css.jar jars/jasperreports-3.7.4/lib/batik-dom.jar jars/jasperreports-3.7.4/lib/batik-ext.jar jars/jasperreports-3.7.4/lib/batik-gvt.jar jars/jasperreports-3.7.4/lib/batik-parser.jar jars/jasperreports-3.7.4/lib/batik-script.jar jars/jasperreports-3.7.4/lib/batik-svg-dom.jar jars/jasperreports-3.7.4/lib/batik-svggen.jar jars/jasperreports-3.7.4/lib/batik-util.jar jars/jasperreports-3.7.4/lib/batik-xml.jar jars/jasperreports-3.7.4/lib/bcel-5.2.jar jars/jasperreports-3.7.4/lib/bsh-2.0b4.jar jars/jasperreports-3.7.4/lib/commons-beanutils-1.8.0.jar jars/jasperreports-3.7.4/lib/commons-collections-2.1.1.jar jars/jasperreports-3.7.4/lib/commons-digester-1.7.jar jars/jasperreports-3.7.4/lib/commons-javaflow-20060411.jar jars/jasperreports-3.7.4/lib/commons-logging-1.0.4.jar jars/jasperreports-3.7.4/lib/groovy-all-1.5.5.jar jars/jasperreports-3.7.4/lib/hibernate3.jar jars/jasperreports-3.7.4/lib/hsqldb-1.8.0-10.jar jars/jasperreports-3.7.4/lib/iText-2.1.7.jar jars/jasperreports-3.7.4/lib/jaxen-1.1.1.jar jars/jasperreports-3.7.4/lib/jcommon-1.0.15.jar jars/jasperreports-3.7.4/lib/jdt-compiler-3.1.1.jar jars/jasperreports-3.7.4/lib/jfreechart-1.0.12.jar jars/jasperreports-3.7.4/lib/jpa.jar jars/jasperreports-3.7.4/lib/jxl-2.6.jar jars/jasperreports-3.7.4/lib/log4j-1.2.15.jar jars/jasperreports-3.7.4/lib/mondrian-3.1.1.12687.jar jars/jasperreports-3.7.4/lib/png-encoder-1.5.jar jars/jasperreports-3.7.4/lib/poi-3.5-FINAL-20090928.jar jars/jasperreports-3.7.4/lib/rhino-1.7R1.jar jars/jasperreports-3.7.4/lib/saaj-api-1.3.jar jars/jasperreports-3.7.4/lib/serializer.jar jars/jasperreports-3.7.4/lib/servlet.jar jars/jasperreports-3.7.4/lib/spring-beans-2.5.5.jar jars/jasperreports-3.7.4/lib/spring-core-2.5.5.jar jars/jasperreports-3.7.4/lib/xalan-2.7.1.jar jars/jasperreports-3.7.4/lib/xercesImpl-2.7.0.jar jars/jasperreports-3.7.4/lib/xml-apis-ext.jar jars/jasperreports-3.7.4/lib/xml-apis.jar) in /home/oopsla21-baton-artifact/doop/cache/input-facts/jre1.6-phantom/9995c6c7159bc7dd055f1b13717dcd4153516cfe363afa83ab9790a3592d19b2/ /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+...
+Adding archive: jars/jasperreports-3.7.4/jasperreports.jar
+Adding archive for resolving: /home/oopsla21-baton-artifact/doop/externals/jre1.6/lib/rt.jar
+Adding archive for resolving: /home/oopsla21-baton-artifact/doop/externals/jre1.6/lib/jce.jar
+Adding archive for resolving: /home/oopsla21-baton-artifact/doop/externals/jre1.6/lib/jsse.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/javaflow.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/ant-1.7.1.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/antlr-2.7.5.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/barbecue-1.5-beta1.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/barcode4j-2.0.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/batik-anim.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/batik-awt-util.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/batik-bridge.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/batik-css.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/batik-dom.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/batik-ext.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/batik-gvt.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/batik-parser.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/batik-script.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/batik-svg-dom.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/batik-svggen.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/batik-util.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/batik-xml.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/bcel-5.2.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/bsh-2.0b4.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/commons-beanutils-1.8.0.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/commons-collections-2.1.1.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/commons-digester-1.7.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/commons-javaflow-20060411.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/commons-logging-1.0.4.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/groovy-all-1.5.5.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/hibernate3.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/hsqldb-1.8.0-10.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/iText-2.1.7.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/jaxen-1.1.1.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/jcommon-1.0.15.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/jdt-compiler-3.1.1.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/jfreechart-1.0.12.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/jpa.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/jxl-2.6.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/log4j-1.2.15.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/mondrian-3.1.1.12687.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/png-encoder-1.5.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/poi-3.5-FINAL-20090928.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/rhino-1.7R1.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/saaj-api-1.3.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/serializer.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/servlet.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/spring-beans-2.5.5.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/spring-core-2.5.5.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/xalan-2.7.1.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/xercesImpl-2.7.0.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/xml-apis-ext.jar
+Adding archive for resolving: jars/jasperreports-3.7.4/lib/xml-apis.jar
+Warning: org.bouncycastle.cms.RecipientInformation is a phantom class!
+Warning: org.bouncycastle.cms.CMSEnvelopedData is a phantom class!
+Warning: org.bouncycastle.cms.RecipientInformationStore is a phantom class!
+Warning: org.bouncycastle.cms.RecipientId is a phantom class!
+Warning: org.bouncycastle.asn1.ASN1Set is a phantom class!
+Warning: org.bouncycastle.asn1.x509.SubjectPublicKeyInfo is a phantom class!
+Warning: org.bouncycastle.asn1.cms.KeyTransRecipientInfo is a phantom class!
+Warning: org.bouncycastle.asn1.ASN1OctetString is a phantom class!
+Warning: org.bouncycastle.asn1.cms.EnvelopedData is a phantom class!
+Warning: org.bouncycastle.asn1.DERObjectIdentifier is a phantom class!
+Warning: org.bouncycastle.asn1.DERSet is a phantom class!
+Warning: org.bouncycastle.asn1.cms.ContentInfo is a phantom class!
+Warning: org.bouncycastle.asn1.DERObject is a phantom class!
+Warning: org.bouncycastle.asn1.pkcs.PKCSObjectIdentifiers is a phantom class!
+Warning: org.bouncycastle.asn1.DEREncodable is a phantom class!
+Warning: org.bouncycastle.asn1.cms.EncryptedContentInfo is a phantom class!
+Warning: org.bouncycastle.asn1.DEROctetString is a phantom class!
+Warning: org.bouncycastle.asn1.ASN1InputStream is a phantom class!
+Warning: org.bouncycastle.asn1.cms.RecipientIdentifier is a phantom class!
+Warning: org.bouncycastle.asn1.cms.OriginatorInfo is a phantom class!
+Warning: org.bouncycastle.asn1.cms.RecipientInfo is a phantom class!
+Warning: org.bouncycastle.asn1.x509.X509Name is a phantom class!
+Warning: org.bouncycastle.asn1.x509.TBSCertificateStructure is a phantom class!
+Warning: org.bouncycastle.asn1.DERInteger is a phantom class!
+Warning: org.bouncycastle.asn1.cms.IssuerAndSerialNumber is a phantom class!
+Warning: org.bouncycastle.asn1.x509.AlgorithmIdentifier is a phantom class!
+Warning: org.bouncycastle.asn1.DEROutputStream is a phantom class!
+Warning: org.bouncycastle.crypto.params.ParametersWithIV is a phantom class!
+Warning: org.bouncycastle.crypto.modes.CBCBlockCipher is a phantom class!
+Warning: org.bouncycastle.crypto.BlockCipher is a phantom class!
+Warning: org.bouncycastle.crypto.engines.AESFastEngine is a phantom class!
+Warning: org.bouncycastle.crypto.paddings.PaddedBufferedBlockCipher is a phantom class!
+Warning: org.bouncycastle.crypto.params.KeyParameter is a phantom class!
+Warning: org.bouncycastle.crypto.CipherParameters is a phantom class!
+Warning: org.bouncycastle.asn1.ASN1Sequence is a phantom class!
+Warning: org.bouncycastle.asn1.cms.Attribute is a phantom class!
+Warning: org.bouncycastle.asn1.ASN1TaggedObject is a phantom class!
+Warning: org.bouncycastle.asn1.tsp.MessageImprint is a phantom class!
+Warning: org.bouncycastle.jce.provider.X509CRLParser is a phantom class!
+Warning: org.bouncycastle.ocsp.SingleResp is a phantom class!
+Warning: org.bouncycastle.asn1.x509.X509Extensions is a phantom class!
+Warning: org.bouncycastle.tsp.TimeStampTokenInfo is a phantom class!
+Warning: org.bouncycastle.asn1.DERTaggedObject is a phantom class!
+Warning: org.bouncycastle.tsp.TimeStampToken is a phantom class!
+Warning: org.bouncycastle.asn1.ASN1OutputStream is a phantom class!
+Warning: org.bouncycastle.asn1.ocsp.OCSPObjectIdentifiers is a phantom class!
+Warning: org.bouncycastle.asn1.tsp.TSTInfo is a phantom class!
+Warning: org.bouncycastle.ocsp.BasicOCSPResp is a phantom class!
+Warning: org.bouncycastle.asn1.DEREncodableVector is a phantom class!
+Warning: org.bouncycastle.asn1.DERSequence is a phantom class!
+Warning: org.bouncycastle.asn1.DERUTCTime is a phantom class!
+Warning: org.bouncycastle.ocsp.CertificateID is a phantom class!
+Warning: org.bouncycastle.asn1.DERNull is a phantom class!
+Warning: org.bouncycastle.jce.provider.X509CertParser is a phantom class!
+Warning: org.bouncycastle.asn1.ASN1EncodableVector is a phantom class!
+Warning: org.bouncycastle.asn1.ocsp.BasicOCSPResponse is a phantom class!
+Warning: org.bouncycastle.asn1.cms.AttributeTable is a phantom class!
+Warning: org.bouncycastle.asn1.DEREnumerated is a phantom class!
+Warning: org.bouncycastle.asn1.DERString is a phantom class!
+Warning: org.eigenbase.util.property.BooleanProperty is a phantom class!
+Warning: org.eigenbase.util.property.IntegerProperty is a phantom class!
+Warning: org.eigenbase.util.property.StringProperty is a phantom class!
+Warning: org.eigenbase.xom.XOMUtil is a phantom class!
+Warning: org.apache.commons.vfs.FileSystem is a phantom class!
+Warning: org.apache.commons.vfs.FileName is a phantom class!
+Warning: org.apache.commons.vfs.FileSystemException is a phantom class!
+Warning: org.apache.commons.vfs.FileContent is a phantom class!
+Warning: org.apache.commons.vfs.FileSystemManager is a phantom class!
+Warning: org.apache.commons.vfs.VFS is a phantom class!
+Warning: org.apache.commons.vfs.FilesCache is a phantom class!
+Warning: org.apache.commons.vfs.provider.http.HttpFileObject is a phantom class!
+Warning: org.apache.commons.vfs.FileObject is a phantom class!
+Warning: org.eigenbase.resgen.ShadowResourceBundle is a phantom class!
+Warning: org.eigenbase.util.property.TriggerableProperties is a phantom class!
+Warning: org.eigenbase.util.property.DoubleProperty is a phantom class!
+Warning: org.eigenbase.resgen.ResourceDefinition is a phantom class!
+Warning: org.eigenbase.resgen.ResourceInstance is a phantom class!
+Warning: org.eigenbase.xom.ElementDef is a phantom class!
+Warning: org.eigenbase.xom.DOMElementParser is a phantom class!
+Warning: org.eigenbase.xom.XMLAttrVector is a phantom class!
+Warning: org.eigenbase.xom.NodeDef is a phantom class!
+Warning: org.eigenbase.xom.XMLOutput is a phantom class!
+Warning: org.eigenbase.xom.XOMException is a phantom class!
+Warning: org.eigenbase.xom.DOMWrapper is a phantom class!
+Warning: org.eigenbase.xom.Parser is a phantom class!
+Warning: org.eigenbase.util.property.Trigger is a phantom class!
+Warning: org.apache.commons.pool.PoolableObjectFactory is a phantom class!
+Warning: org.apache.commons.pool.impl.GenericObjectPool is a phantom class!
+Warning: org.apache.commons.dbcp.AbandonedConfig is a phantom class!
+Warning: org.apache.commons.dbcp.PoolableConnectionFactory is a phantom class!
+Warning: org.apache.commons.pool.ObjectPool is a phantom class!
+Warning: org.apache.commons.dbcp.DataSourceConnectionFactory is a phantom class!
+Warning: org.apache.commons.dbcp.ConnectionFactory is a phantom class!
+Warning: org.apache.commons.dbcp.DriverManagerConnectionFactory is a phantom class!
+Warning: org.apache.commons.dbcp.PoolingDataSource is a phantom class!
+Warning: org.apache.commons.pool.KeyedObjectPoolFactory is a phantom class!
+Warning: org.apache.commons.dbcp.DelegatingConnection is a phantom class!
+Warning: org.eigenbase.util.property.TriggerBase is a phantom class!
+Warning: org.eigenbase.util.property.Property is a phantom class!
+Warning: org.eigenbase.util.property.Trigger$VetoRT is a phantom class!
+Warning: org.dom4j.Node is a phantom class!
+Warning: net.sf.cglib.transform.impl.InterceptFieldCallback is a phantom class!
+Warning: net.sf.cglib.transform.impl.InterceptFieldEnabled is a phantom class!
+Warning: javax.transaction.TransactionManager is a phantom class!
+Warning: org.dom4j.Element is a phantom class!
+Warning: javax.transaction.Synchronization is a phantom class!
+Warning: net.sf.cglib.reflect.FastClass is a phantom class!
+Warning: net.sf.cglib.beans.BulkBean is a phantom class!
+Warning: net.sf.cglib.beans.BulkBeanException is a phantom class!
+Warning: org.dom4j.Document is a phantom class!
+Warning: org.dom4j.InvalidXPathException is a phantom class!
+Warning: org.dom4j.Entity is a phantom class!
+Warning: org.dom4j.CDATA is a phantom class!
+Warning: org.dom4j.Comment is a phantom class!
+Warning: org.dom4j.Visitor is a phantom class!
+Warning: org.dom4j.ProcessingInstruction is a phantom class!
+Warning: org.dom4j.Namespace is a phantom class!
+Warning: org.dom4j.Branch is a phantom class!
+Warning: org.dom4j.Text is a phantom class!
+Warning: org.dom4j.XPath is a phantom class!
+Warning: org.dom4j.QName is a phantom class!
+Warning: org.dom4j.Attribute is a phantom class!
+Warning: javax.transaction.Transaction is a phantom class!
+Warning: javax.transaction.SystemException is a phantom class!
+Warning: org.dom4j.io.SAXReader is a phantom class!
+Warning: org.dom4j.io.DOMReader is a phantom class!
+Warning: javax.security.jacc.PolicyConfiguration is a phantom class!
+Warning: javax.security.jacc.EJBMethodPermission is a phantom class!
+Warning: javax.security.jacc.PolicyContextException is a phantom class!
+Warning: javax.security.jacc.PolicyConfigurationFactory is a phantom class!
+Warning: org.dom4j.DocumentFactory is a phantom class!
+Warning: net.sf.cglib.core.KeyFactory is a phantom class!
+Warning: org.logicalcobwebs.proxool.configuration.JAXPConfigurator is a phantom class!
+Warning: org.logicalcobwebs.proxool.ProxoolException is a phantom class!
+Warning: org.logicalcobwebs.proxool.configuration.PropertyConfigurator is a phantom class!
+Warning: org.logicalcobwebs.proxool.ProxoolFacade is a phantom class!
+Warning: com.mchange.v2.c3p0.DataSources is a phantom class!
+Warning: com.mchange.v2.c3p0.PoolConfig is a phantom class!
+Warning: net.sf.cglib.proxy.Factory is a phantom class!
+Warning: net.sf.cglib.proxy.MethodInterceptor is a phantom class!
+Warning: net.sf.cglib.proxy.Enhancer is a phantom class!
+Warning: net.sf.cglib.proxy.Callback is a phantom class!
+Warning: net.sf.cglib.proxy.MethodProxy is a phantom class!
+Warning: com.thoughtworks.xstream.XStream is a phantom class!
+Warning: org.apache.commons.lang.NumberUtils is a phantom class!
+Warning: org.apache.tools.ant.launch.Locator is a phantom class!
+Warning: org.apache.tools.ant.launch.AntMain is a phantom class!
+Warning: org.apache.tools.ant.launch.Launcher is a phantom class!
+Warning: edu.emory.mathcs.backport.java.util.concurrent.CopyOnWriteArraySet is a phantom class!
+Warning: edu.emory.mathcs.backport.java.util.concurrent.ConcurrentHashMap is a phantom class!
+Warning: org.apache.commons.collections.map.ListOrderedMap is a phantom class!
+Warning: org.apache.commons.collections.OrderedMap is a phantom class!
+Warning: org.apache.commons.collections.map.CaseInsensitiveMap is a phantom class!
+Warning: net.sf.cglib.proxy.CallbackFilter is a phantom class!
+Warning: net.sf.cglib.proxy.NoOp is a phantom class!
+Warning: java.dyn.InvokeDynamic is a phantom class!
+elapsed time: 365.46s
+creating database in /home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/9995c6c7159bc7dd055f1b13717dcd4153516cfe363afa83ab9790a3592d19b2/ ...
+elapsed time: 0.81s
+loading fact declarations ...
+elapsed time: 2.40s
+loading facts /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+...
+elapsed time: 72.72s
+setting main class to net.sf.jasperreports.view.JasperViewer
+loading context-insensitive declarations ...
+elapsed time: 9.52s
+loading context-insensitive delta rules ...
+elapsed time: 15.39s
+loading reflection delta rules ...
+elapsed time: 28.74s
+loading client delta rules ...
+elapsed time: 6.98s
+loading auxiliary delta rules ...
+elapsed time: 7.22s
+loading context-insensitive rules 
+...
+[1m[40m[33mPointer analysis START(B[m
+[1m[40m[37melapsed time: [1m[40m[32m1211.59s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 135.20s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/context-insensitive/jre1.6-phantom/jasperreports.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m73783904(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m276.9(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m5305(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m7060(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m33019(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m187173(B[m
+Analyze [96mjasperreports[0m by [96mci[0m ...
+Computing [93mAliases[0m of [96mjasperreports[0m for [96mci[0m ...
+Dumping doop analysis results for jasperreports ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m586,687,036[0m
+
+Analyze [96mjasperreports[0m by [96mcollection[0m ...
+Dumping doop analysis results for jasperreports ...
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32mnet.sf.jasperreports.view.JasperViewer(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32mnet.**:org.**(B[m
+using cached database (/home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/9995c6c7159bc7dd055f1b13717dcd4153516cfe363afa83ab9790a3592d19b2/)
+loading 3-object-sensitive+2-heap declarations ...
+elapsed time: 10.17s
+loading 3-object-sensitive+2-heap delta rules ...
+elapsed time: 15.53s
+loading reflection delta rules ...
+elapsed time: 29.78s
+loading client delta rules ...
+elapsed time: 7.77s
+loading auxiliary delta rules ...
+elapsed time: 7.44s
+loading 3-object-sensitive+2-heap rules 
+loading [1m[40m[33mcontext-sensitive methods(B[m from /home/oopsla21-baton-artifact/doop/ptatoolkit/cache/jasperreports.COLLECTION_METHODS ...
+elapsed time: 7.44s
+...
+[1m[40m[33mPointer analysis START(B[m
+[1m[40m[37melapsed time: [1m[40m[32m1211.81s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 61.07s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/3-object-sensitive+2-heap/jre1.6-phantom/jasperreports.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m14935335(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m59.9(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m3501(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m5544(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m30774(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m152250(B[m
+Computing [93mAliases[0m of [96mjasperreports[0m for [96mcollection[0m ...
+Dumping doop analysis results for jasperreports ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m151,406,154[0m
+
+Analyze [96mjasperreports[0m by [96mzipper-e[0m ...
+Dumping doop analysis results for jasperreports ...
+Analyze jasperreports ...
+Reading points-to analysis results ... 
+[1m[33mZipper starts ...[0m
+Precision loss patterns: [1m[32mDirect+Wrapped+Unwrapped[0m
+#Classes: [1m[32m3970[0m
+#Methods: [1m[32m32778[0m
+
+Building OFG (Object Flow Graph) ... 
+Object Flow Graph Timer elapsed time: 7.22s
+#nodes in OFG: [1m[32m419360[0m
+#edges in OFG: [1m[32m1209439[0m
+
+Building PFGs (Precision Flow Graphs) and computing precision-critical methods ...
+#avg. nodes in PFG: [1m[32m5119[0m
+#avg. edges in PFG: [1m[32m15733[0m
+
+#whole-program points-to size: [1m[32m73783904[0m
+#PCM points-to size: [1m[32m53289394[0m
+#Precision-critical methods: [1m[32m2485[0m
+[1m[33mZipper finishes, analysis time: [0m[1m[32m157.94s[0m
+Writing Zipper precision-critical methods to /home/oopsla21-baton-artifact/doop/ptatoolkit/out/jasperreports-ZipperPrecisionCriticalMethod-zipper-e-0.05.facts ...
+
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32mnet.sf.jasperreports.view.JasperViewer(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32mnet.**:org.**(B[m
+using cached database (/home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/9995c6c7159bc7dd055f1b13717dcd4153516cfe363afa83ab9790a3592d19b2/)
+loading 2-object-sensitive+heap declarations ...
+elapsed time: 9.53s
+loading 2-object-sensitive+heap delta rules ...
+elapsed time: 14.87s
+loading reflection delta rules ...
+elapsed time: 27.92s
+loading client delta rules ...
+elapsed time: 6.79s
+loading auxiliary delta rules ...
+elapsed time: 6.66s
+loading 2-object-sensitive+heap rules 
+loading [1m[40m[33mcontext-sensitive methods(B[m from /home/oopsla21-baton-artifact/doop/ptatoolkit/out/jasperreports-ZipperPrecisionCriticalMethod-zipper-e-0.05.facts ...
+elapsed time: 6.43s
+...
+[1m[40m[33mPointer analysis START(B[m
+<2022/12/06 19:40:57.403> WARN. apply delta for array predicate VarPointsTo has 103739163 deltas to apply
+[1m[40m[37melapsed time: [1m[40m[32m1533.09s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 50.99s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/2-object-sensitive+heap/jre1.6-phantom/jasperreports.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m32834048(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m126.5(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m4202(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m6083(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m32044(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m167340(B[m
+Computing [93mAliases[0m of [96mjasperreports[0m for [96mzipper-e[0m ...
+Dumping doop analysis results for jasperreports ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m258,484,882[0m
+
+Analyze [96mjasperreports[0m by [96mscaler[0m ...
+Dumping doop analysis results for jasperreports ...
+Analyze jasperreports ...
+Reading points-to analysis results ... 
+[1m[33mScaler starts ...[0m
+Given TST value: [1m[32m30000000[0m
+Selected ST value: [1m[32m0[0m
+[1m[33mScaler finishes, analysis time: [0m[1m[32m2.65s[0m
+Writing Scaler method context sensitivities to /home/oopsla21-baton-artifact/doop/ptatoolkit/out/jasperreports-ScalerMethodContext-TST30000000.facts...
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32mnet.sf.jasperreports.view.JasperViewer(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32mnet.**:org.**(B[m
+using cached database (/home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/9995c6c7159bc7dd055f1b13717dcd4153516cfe363afa83ab9790a3592d19b2/)
+loading specified-sensitive+heap declarations ...
+elapsed time: 5.77s
+loading specified-sensitive+heap delta rules ...
+elapsed time: 7.68s
+loading reflection delta rules ...
+elapsed time: 14.46s
+loading client delta rules ...
+elapsed time: 4.75s
+loading auxiliary delta rules ...
+elapsed time: 4.65s
+loading specified-sensitive+heap rules 
+loading [1m[40m[33mspecified context variants(B[m from /home/oopsla21-baton-artifact/doop/ptatoolkit/out/jasperreports-ScalerMethodContext-TST30000000.facts ...
+elapsed time: 4.31s
+...
+[1m[40m[33mPointer analysis START(B[m
+[1m[40m[37melapsed time: [1m[40m[32m1265.38s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 40.18s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/specified-sensitive+heap/jre1.6-phantom/jasperreports.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m19025792(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m75.9(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m3615(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m5577(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m30904(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m154745(B[m
+Computing [93mAliases[0m of [96mjasperreports[0m for [96mscaler[0m ...
+Dumping doop analysis results for jasperreports ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m176,489,911[0m
+
+Analyze [96mjasperreports[0m by [96mbaton-unity[0m ...
+Obtaining results of selective approaches ...
+Dumping doop analysis results for jasperreports ...
+Dumping doop analysis results for jasperreports ...
+Analyze jasperreports ...
+Reading points-to analysis results ... 
+[1m[33mZipper starts ...[0m
+Precision loss patterns: [1m[32mDirect+Wrapped+Unwrapped[0m
+#Classes: [1m[32m3970[0m
+#Methods: [1m[32m32778[0m
+
+Building OFG (Object Flow Graph) ... 
+Object Flow Graph Timer elapsed time: 3.19s
+#nodes in OFG: [1m[32m419360[0m
+#edges in OFG: [1m[32m1209439[0m
+
+Building PFGs (Precision Flow Graphs) and computing precision-critical methods ...
+#avg. nodes in PFG: [1m[32m5119[0m
+#avg. edges in PFG: [1m[32m15733[0m
+
+#whole-program points-to size: [1m[32m73783904[0m
+#PCM points-to size: [1m[32m53289394[0m
+#Precision-critical methods: [1m[32m2485[0m
+[1m[33mZipper finishes, analysis time: [0m[1m[32m66.73s[0m
+Writing Zipper precision-critical methods to /home/oopsla21-baton-artifact/doop/ptatoolkit/out/jasperreports-ZipperPrecisionCriticalMethod-zipper-e-0.05.facts ...
+
+Dumping doop analysis results for jasperreports ...
+Analyze jasperreports ...
+Reading points-to analysis results ... 
+[1m[33mScaler starts ...[0m
+Given TST value: [1m[32m30000000[0m
+Selected ST value: [1m[32m0[0m
+[1m[33mScaler finishes, analysis time: [0m[1m[32m2.79s[0m
+Writing Scaler method context sensitivities to /home/oopsla21-baton-artifact/doop/ptatoolkit/out/jasperreports-ScalerMethodContext-TST30000000.facts...
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32mnet.sf.jasperreports.view.JasperViewer(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32mnet.**:org.**(B[m
+using cached database (/home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/9995c6c7159bc7dd055f1b13717dcd4153516cfe363afa83ab9790a3592d19b2/)
+loading specified-3-sensitive+2-heap declarations ...
+elapsed time: 5.76s
+loading specified-3-sensitive+2-heap delta rules ...
+elapsed time: 7.61s
+loading reflection delta rules ...
+elapsed time: 14.44s
+loading client delta rules ...
+elapsed time: 4.46s
+loading auxiliary delta rules ...
+elapsed time: 4.56s
+loading specified-3-sensitive+2-heap rules 
+loading [1m[40m[33mspecified context variants(B[m from /home/oopsla21-baton-artifact/doop/tmp/jasperreports.SPECIFIEDCS ...
+elapsed time: 4.30s
+...
+[1m[40m[33mPointer analysis START(B[m
+[1m[40m[37melapsed time: [1m[40m[32m736.60s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 22.71s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/specified-3-sensitive+2-heap/jre1.6-phantom/jasperreports.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m6453254(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m26.5(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m2994(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m5267(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m30008(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m142256(B[m
+Computing [93mAliases[0m of [96mjasperreports[0m for [96mbaton-unity[0m ...
+Dumping doop analysis results for jasperreports ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m74,908,878[0m
+

@@ -1,0 +1,375 @@
+nohup: ignoring input
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32mgruntspud.standalone.JDK13GruntspudHost(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32mallensoft.**:bmsi.**:com.**:gruntspud.**:javax.**:org.**:plugspud.*(B[m
+generating facts (jars/gruntspud/GruntspudSA.jar /home/oopsla21-baton-artifact/doop/jars/empty.jar) in /home/oopsla21-baton-artifact/doop/cache/input-facts/jre1.6-phantom/bf04e160d21480e7da7274f97ea7a692485dfc5d229d9996b77ee582a55689eb/ /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+...
+Adding archive: jars/gruntspud/GruntspudSA.jar
+Adding archive for resolving: /home/oopsla21-baton-artifact/doop/externals/jre1.6/lib/rt.jar
+Adding archive for resolving: /home/oopsla21-baton-artifact/doop/externals/jre1.6/lib/jce.jar
+Adding archive for resolving: /home/oopsla21-baton-artifact/doop/externals/jre1.6/lib/jsse.jar
+Adding archive for resolving: /home/oopsla21-baton-artifact/doop/jars/empty.jar
+Warning: org.gjt.sp.jedit.EBPlugin is a phantom class!
+Warning: console.Console is a phantom class!
+Warning: console.Shell is a phantom class!
+Warning: org.gjt.sp.jedit.OptionPane is a phantom class!
+Warning: org.gjt.sp.jedit.View is a phantom class!
+Warning: org.gjt.sp.jedit.Buffer is a phantom class!
+Warning: org.gjt.sp.jedit.gui.OptionsDialog is a phantom class!
+Warning: org.gjt.sp.jedit.gui.DockableWindowManager is a phantom class!
+Warning: org.gjt.sp.jedit.jEdit is a phantom class!
+Warning: errorlist.ErrorSource is a phantom class!
+Warning: org.gjt.sp.jedit.EBMessage is a phantom class!
+Warning: org.gjt.sp.jedit.OptionGroup is a phantom class!
+Warning: org.gjt.sp.jedit.GUIUtilities is a phantom class!
+Warning: console.Output is a phantom class!
+Warning: org.gjt.sp.jedit.AbstractOptionPane is a phantom class!
+Warning: errorlist.ErrorSource$Error is a phantom class!
+Warning: errorlist.ErrorSourceUpdate is a phantom class!
+Warning: org.gjt.sp.jedit.EBComponent is a phantom class!
+Warning: org.gjt.sp.jedit.io.VFS is a phantom class!
+Warning: org.gjt.sp.jedit.io.VFSManager is a phantom class!
+Warning: org.gjt.sp.jedit.help.HelpViewer is a phantom class!
+Warning: org.gjt.sp.jedit.gui.StatusBar is a phantom class!
+Warning: jdiff.DualDiff is a phantom class!
+Warning: org.gjt.sp.jedit.EditPane is a phantom class!
+Warning: org.gjt.sp.jedit.msg.PropertiesChanged is a phantom class!
+Warning: org.gjt.sp.jedit.MiscUtilities is a phantom class!
+Warning: org.gjt.sp.jedit.io.VFS$DirectoryEntry is a phantom class!
+Warning: org.gjt.sp.jedit.msg.EditorExiting is a phantom class!
+Warning: org.gjt.sp.jedit.msg.BufferUpdate is a phantom class!
+Warning: org.gjt.sp.jedit.msg.VFSUpdate is a phantom class!
+Warning: org.gjt.sp.jedit.EditBus is a phantom class!
+Warning: javax.mail.Message is a phantom class!
+Warning: javax.mail.MessagingException is a phantom class!
+Warning: javax.mail.internet.MimeMultipart is a phantom class!
+Warning: javax.mail.internet.AddressException is a phantom class!
+Warning: javax.mail.Transport is a phantom class!
+Warning: javax.mail.Authenticator is a phantom class!
+Warning: javax.mail.Address is a phantom class!
+Warning: javax.mail.internet.InternetAddress is a phantom class!
+Warning: javax.mail.internet.MimeBodyPart is a phantom class!
+Warning: javax.mail.Multipart is a phantom class!
+Warning: javax.mail.BodyPart is a phantom class!
+Warning: javax.mail.internet.MimeMessage is a phantom class!
+Warning: javax.mail.Message$RecipientType is a phantom class!
+Warning: javax.mail.Session is a phantom class!
+Warning: org.gjt.sp.jedit.textarea.TextAreaExtension is a phantom class!
+Warning: javax.jms.ObjectMessage is a phantom class!
+Warning: javax.jms.TopicPublisher is a phantom class!
+Warning: javax.jms.Session is a phantom class!
+Warning: javax.jms.TopicSession is a phantom class!
+Warning: javax.jms.Message is a phantom class!
+Warning: javax.jms.Connection is a phantom class!
+Warning: javax.jms.TopicConnection is a phantom class!
+Warning: javax.jms.Topic is a phantom class!
+Warning: javax.jms.TopicConnectionFactory is a phantom class!
+Warning: javax.jms.MessageListener is a phantom class!
+Warning: javax.jms.JMSException is a phantom class!
+Warning: javax.jms.MessageConsumer is a phantom class!
+Warning: javax.jms.TopicSubscriber is a phantom class!
+Warning: com.sun.jdmk.comm.HtmlAdaptorServer is a phantom class!
+Warning: com.sun.jdmk.comm.CommunicatorServer is a phantom class!
+Warning: java.dyn.InvokeDynamic is a phantom class!
+elapsed time: 74.33s
+creating database in /home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/bf04e160d21480e7da7274f97ea7a692485dfc5d229d9996b77ee582a55689eb/ ...
+elapsed time: 0.67s
+loading fact declarations ...
+elapsed time: 1.51s
+loading facts /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+...
+elapsed time: 14.46s
+setting main class to gruntspud.standalone.JDK13GruntspudHost
+loading context-insensitive declarations ...
+elapsed time: 3.00s
+loading context-insensitive delta rules ...
+elapsed time: 4.05s
+loading reflection delta rules ...
+elapsed time: 6.57s
+loading client delta rules ...
+elapsed time: 2.35s
+loading auxiliary delta rules ...
+elapsed time: 2.31s
+loading context-insensitive rules 
+...
+[1m[40m[33mPointer analysis START(B[m
+[1m[40m[37melapsed time: [1m[40m[32m157.52s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 23.26s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/context-insensitive/jre1.6-phantom/GruntspudSA.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m23261792(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m112.5(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m3583(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m5703(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m24887(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m148874(B[m
+Analyze [96mgruntspud[0m by [96mci[0m ...
+Computing [93mAliases[0m of [96mgruntspud[0m for [96mci[0m ...
+Dumping doop analysis results for gruntspud ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m301,389,233[0m
+
+Analyze [96mgruntspud[0m by [96mcollection[0m ...
+Dumping doop analysis results for gruntspud ...
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32mgruntspud.standalone.JDK13GruntspudHost(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32mallensoft.**:bmsi.**:com.**:gruntspud.**:javax.**:org.**:plugspud.*(B[m
+using cached database (/home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/bf04e160d21480e7da7274f97ea7a692485dfc5d229d9996b77ee582a55689eb/)
+loading 3-object-sensitive+2-heap declarations ...
+elapsed time: 3.28s
+loading 3-object-sensitive+2-heap delta rules ...
+elapsed time: 4.55s
+loading reflection delta rules ...
+elapsed time: 6.18s
+loading client delta rules ...
+elapsed time: 2.43s
+loading auxiliary delta rules ...
+elapsed time: 2.54s
+loading 3-object-sensitive+2-heap rules 
+loading [1m[40m[33mcontext-sensitive methods(B[m from /home/oopsla21-baton-artifact/doop/ptatoolkit/cache/gruntspud.COLLECTION_METHODS ...
+elapsed time: 2.06s
+...
+[1m[40m[33mPointer analysis START(B[m
+[1m[40m[37melapsed time: [1m[40m[32m119.38s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 14.12s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/3-object-sensitive+2-heap/jre1.6-phantom/GruntspudSA.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m8099569(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m40.1(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m2636(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m4820(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m24210(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m120835(B[m
+Computing [93mAliases[0m of [96mgruntspud[0m for [96mcollection[0m ...
+Dumping doop analysis results for gruntspud ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m103,258,215[0m
+
+Analyze [96mgruntspud[0m by [96mzipper-e[0m ...
+Dumping doop analysis results for gruntspud ...
+Analyze gruntspud ...
+Reading points-to analysis results ... 
+[1m[33mZipper starts ...[0m
+Precision loss patterns: [1m[32mDirect+Wrapped+Unwrapped[0m
+#Classes: [1m[32m3225[0m
+#Methods: [1m[32m24790[0m
+
+Building OFG (Object Flow Graph) ... 
+Object Flow Graph Timer elapsed time: 2.38s
+#nodes in OFG: [1m[32m299457[0m
+#edges in OFG: [1m[32m1008032[0m
+
+Building PFGs (Precision Flow Graphs) and computing precision-critical methods ...
+#avg. nodes in PFG: [1m[32m6766[0m
+#avg. edges in PFG: [1m[32m22146[0m
+
+#whole-program points-to size: [1m[32m23261792[0m
+#PCM points-to size: [1m[32m18125641[0m
+#Precision-critical methods: [1m[32m2541[0m
+[1m[33mZipper finishes, analysis time: [0m[1m[32m93.09s[0m
+Writing Zipper precision-critical methods to /home/oopsla21-baton-artifact/doop/ptatoolkit/out/gruntspud-ZipperPrecisionCriticalMethod-zipper-e-0.05.facts ...
+
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32mgruntspud.standalone.JDK13GruntspudHost(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32mallensoft.**:bmsi.**:com.**:gruntspud.**:javax.**:org.**:plugspud.*(B[m
+using cached database (/home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/bf04e160d21480e7da7274f97ea7a692485dfc5d229d9996b77ee582a55689eb/)
+loading 2-object-sensitive+heap declarations ...
+elapsed time: 3.71s
+loading 2-object-sensitive+heap delta rules ...
+elapsed time: 4.63s
+loading reflection delta rules ...
+elapsed time: 6.63s
+loading client delta rules ...
+elapsed time: 2.51s
+loading auxiliary delta rules ...
+elapsed time: 2.36s
+loading 2-object-sensitive+heap rules 
+loading [1m[40m[33mcontext-sensitive methods(B[m from /home/oopsla21-baton-artifact/doop/ptatoolkit/out/gruntspud-ZipperPrecisionCriticalMethod-zipper-e-0.05.facts ...
+elapsed time: 2.02s
+...
+[1m[40m[33mPointer analysis START(B[m
+[1m[40m[37melapsed time: [1m[40m[32m260.39s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 20.03s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/2-object-sensitive+heap/jre1.6-phantom/GruntspudSA.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m7670883(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m38.2(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m2549(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m4739(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m24117(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m120316(B[m
+Computing [93mAliases[0m of [96mgruntspud[0m for [96mzipper-e[0m ...
+Dumping doop analysis results for gruntspud ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m104,660,677[0m
+
+Analyze [96mgruntspud[0m by [96mscaler[0m ...
+Dumping doop analysis results for gruntspud ...
+Analyze gruntspud ...
+Reading points-to analysis results ... 
+[1m[33mScaler starts ...[0m
+Given TST value: [1m[32m30000000[0m
+Selected ST value: [1m[32m10825[0m
+[1m[33mScaler finishes, analysis time: [0m[1m[32m2.60s[0m
+Writing Scaler method context sensitivities to /home/oopsla21-baton-artifact/doop/ptatoolkit/out/gruntspud-ScalerMethodContext-TST30000000.facts...
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32mgruntspud.standalone.JDK13GruntspudHost(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32mallensoft.**:bmsi.**:com.**:gruntspud.**:javax.**:org.**:plugspud.*(B[m
+using cached database (/home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/bf04e160d21480e7da7274f97ea7a692485dfc5d229d9996b77ee582a55689eb/)
+loading specified-sensitive+heap declarations ...
+elapsed time: 3.50s
+loading specified-sensitive+heap delta rules ...
+elapsed time: 4.62s
+loading reflection delta rules ...
+elapsed time: 6.87s
+loading client delta rules ...
+elapsed time: 2.83s
+loading auxiliary delta rules ...
+elapsed time: 2.85s
+loading specified-sensitive+heap rules 
+loading [1m[40m[33mspecified context variants(B[m from /home/oopsla21-baton-artifact/doop/ptatoolkit/out/gruntspud-ScalerMethodContext-TST30000000.facts ...
+elapsed time: 2.48s
+...
+[1m[40m[33mPointer analysis START(B[m
+<2022/12/06 10:05:22.526> WARN. apply delta has 394268815 deltas to apply
+<2022/12/06 10:05:23.381> WARN. apply delta is 2 % complete
+<2022/12/06 10:05:24.084> WARN. apply delta is 4 % complete
+<2022/12/06 10:05:25.762> WARN. apply delta is 6 % complete
+<2022/12/06 10:05:27.362> WARN. apply delta is 9 % complete
+<2022/12/06 10:05:35.768> WARN. apply delta is 20 % complete
+<2022/12/06 10:05:37.867> WARN. apply delta is 23 % complete
+<2022/12/06 10:05:38.304> WARN. apply delta is 24 % complete
+<2022/12/06 10:05:39.332> WARN. apply delta is 25 % complete
+<2022/12/06 10:05:46.577> WARN. apply delta is 33 % complete
+<2022/12/06 10:05:46.946> WARN. apply delta is 34 % complete
+<2022/12/06 10:05:49.168> WARN. apply delta is 36 % complete
+<2022/12/06 10:05:49.364> WARN. apply delta is 37 % complete
+<2022/12/06 10:05:50.866> WARN. apply delta is 39 % complete
+<2022/12/06 10:05:50.994> WARN. apply delta for array predicate VarPointsTo has 238526854 deltas to apply
+<2022/12/06 10:06:43.678> WARN. apply delta is 99 % complete
+<2022/12/06 10:06:43.772> WARN. apply delta is 100 % complete
+[1m[40m[37melapsed time: [1m[40m[32m2637.55s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 62.75s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/specified-sensitive+heap/jre1.6-phantom/GruntspudSA.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m7577272(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m37.6(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m2479(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m4699(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m24207(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m120177(B[m
+Computing [93mAliases[0m of [96mgruntspud[0m for [96mscaler[0m ...
+Dumping doop analysis results for gruntspud ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m100,355,028[0m
+
+Analyze [96mgruntspud[0m by [96mbaton-unity[0m ...
+Obtaining results of selective approaches ...
+Dumping doop analysis results for gruntspud ...
+Dumping doop analysis results for gruntspud ...
+Analyze gruntspud ...
+Reading points-to analysis results ... 
+[1m[33mZipper starts ...[0m
+Precision loss patterns: [1m[32mDirect+Wrapped+Unwrapped[0m
+#Classes: [1m[32m3225[0m
+#Methods: [1m[32m24790[0m
+
+Building OFG (Object Flow Graph) ... 
+Object Flow Graph Timer elapsed time: 2.73s
+#nodes in OFG: [1m[32m299457[0m
+#edges in OFG: [1m[32m1008032[0m
+
+Building PFGs (Precision Flow Graphs) and computing precision-critical methods ...
+#avg. nodes in PFG: [1m[32m6766[0m
+#avg. edges in PFG: [1m[32m22146[0m
+
+#whole-program points-to size: [1m[32m23261792[0m
+#PCM points-to size: [1m[32m18125641[0m
+#Precision-critical methods: [1m[32m2541[0m
+[1m[33mZipper finishes, analysis time: [0m[1m[32m100.62s[0m
+Writing Zipper precision-critical methods to /home/oopsla21-baton-artifact/doop/ptatoolkit/out/gruntspud-ZipperPrecisionCriticalMethod-zipper-e-0.05.facts ...
+
+Dumping doop analysis results for gruntspud ...
+Analyze gruntspud ...
+Reading points-to analysis results ... 
+[1m[33mScaler starts ...[0m
+Given TST value: [1m[32m30000000[0m
+Selected ST value: [1m[32m10825[0m
+[1m[33mScaler finishes, analysis time: [0m[1m[32m2.63s[0m
+Writing Scaler method context sensitivities to /home/oopsla21-baton-artifact/doop/ptatoolkit/out/gruntspud-ScalerMethodContext-TST30000000.facts...
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32mgruntspud.standalone.JDK13GruntspudHost(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32mallensoft.**:bmsi.**:com.**:gruntspud.**:javax.**:org.**:plugspud.*(B[m
+using cached database (/home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/bf04e160d21480e7da7274f97ea7a692485dfc5d229d9996b77ee582a55689eb/)
+loading specified-3-sensitive+2-heap declarations ...
+elapsed time: 3.11s
+loading specified-3-sensitive+2-heap delta rules ...
+elapsed time: 4.30s
+loading reflection delta rules ...
+elapsed time: 6.58s
+loading client delta rules ...
+elapsed time: 2.39s
+loading auxiliary delta rules ...
+elapsed time: 2.43s
+loading specified-3-sensitive+2-heap rules 
+loading [1m[40m[33mspecified context variants(B[m from /home/oopsla21-baton-artifact/doop/tmp/gruntspud.SPECIFIEDCS ...
+elapsed time: 2.10s
+...
+[1m[40m[33mPointer analysis START(B[m
+<2022/12/06 11:11:35.144> WARN. apply delta has 566227728 deltas to apply
+<2022/12/06 11:11:37.212> WARN. apply delta is 1 % complete
+<2022/12/06 11:11:38.487> WARN. apply delta is 2 % complete
+<2022/12/06 11:11:41.335> WARN. apply delta is 4 % complete
+<2022/12/06 11:11:41.967> WARN. apply delta is 5 % complete
+<2022/12/06 11:11:47.954> WARN. apply delta is 8 % complete
+<2022/12/06 11:11:48.205> WARN. apply delta is 9 % complete
+<2022/12/06 11:11:50.653> WARN. apply delta is 10 % complete
+<2022/12/06 11:11:56.587> WARN. apply delta is 12 % complete
+<2022/12/06 11:12:12.438> WARN. apply delta is 18 % complete
+<2022/12/06 11:12:12.439> WARN. apply delta for array predicate VarPointsTo has 351277671 deltas to apply
+<2022/12/06 11:14:05.504> WARN. apply delta is 80 % complete
+<2022/12/06 11:14:13.024> WARN. apply delta is 83 % complete
+<2022/12/06 11:14:32.518> WARN. apply delta is 96 % complete
+<2022/12/06 11:14:32.597> WARN. apply delta is 97 % complete
+<2022/12/06 11:14:34.639> WARN. apply delta is 99 % complete
+<2022/12/06 11:14:34.748> WARN. apply delta is 100 % complete
+[1m[40m[37melapsed time: [1m[40m[32m3471.10s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 81.44s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/specified-3-sensitive+2-heap/jre1.6-phantom/GruntspudSA.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m6275349(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m31.4(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m2096(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m4572(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m23992(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m116842(B[m
+Computing [93mAliases[0m of [96mgruntspud[0m for [96mbaton-unity[0m ...
+Dumping doop analysis results for gruntspud ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m81,988,438[0m
+

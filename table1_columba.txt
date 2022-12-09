@@ -1,0 +1,366 @@
+nohup: ignoring input
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32morg.columba.core.main.Main(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32morg.**(B[m
+generating facts (jars/columba/1.4/columba.jar  jars/columba/1.4/lib/bsh-2.0b2.jar jars/columba/1.4/lib/commons-cli-1.0.jar jars/columba/1.4/lib/commons-logging.jar jars/columba/1.4/lib/flexdock-0.4.1.jar jars/columba/1.4/lib/forms-1.0.5.jar jars/columba/1.4/lib/frapuccino-1.0pre1.jar jars/columba/1.4/lib/groovy-1.0.jar jars/columba/1.4/lib/ical4j-0.9.18.jar jars/columba/1.4/lib/jdom-1.0.jar jars/columba/1.4/lib/je-2.1.30.jar jars/columba/1.4/lib/jhall-2.0_02.jar jars/columba/1.4/lib/jpim.jar jars/columba/1.4/lib/jscf-0.3.jar jars/columba/1.4/lib/jwizz-0.1.3.jar jars/columba/1.4/lib/jython-2.2a1.jar jars/columba/1.4/lib/looks-2.0.2.jar jars/columba/1.4/lib/lucene-1.4.3.jar jars/columba/1.4/lib/macchiato-1.0pre1.jar jars/columba/1.4/lib/migcalendar-5.6.jar jars/columba/1.4/lib/quaqua.jar jars/columba/1.4/lib/ristretto-1.2-all.jar jars/columba/1.4/lib/swingx.jar jars/columba/1.4/lib/usermanual.jar) in /home/oopsla21-baton-artifact/doop/cache/input-facts/jre1.6-phantom/87758696dc1276cc429fd993896689c4f40e272ec4fba4669b00fc57f97fabb5/ /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+...
+Adding archive: jars/columba/1.4/columba.jar
+Adding archive for resolving: /home/oopsla21-baton-artifact/doop/externals/jre1.6/lib/rt.jar
+Adding archive for resolving: /home/oopsla21-baton-artifact/doop/externals/jre1.6/lib/jce.jar
+Adding archive for resolving: /home/oopsla21-baton-artifact/doop/externals/jre1.6/lib/jsse.jar
+Adding archive for resolving: jars/columba/1.4/lib/bsh-2.0b2.jar
+Adding archive for resolving: jars/columba/1.4/lib/commons-cli-1.0.jar
+Adding archive for resolving: jars/columba/1.4/lib/commons-logging.jar
+Adding archive for resolving: jars/columba/1.4/lib/flexdock-0.4.1.jar
+Adding archive for resolving: jars/columba/1.4/lib/forms-1.0.5.jar
+Adding archive for resolving: jars/columba/1.4/lib/frapuccino-1.0pre1.jar
+Adding archive for resolving: jars/columba/1.4/lib/groovy-1.0.jar
+Adding archive for resolving: jars/columba/1.4/lib/ical4j-0.9.18.jar
+Adding archive for resolving: jars/columba/1.4/lib/jdom-1.0.jar
+Adding archive for resolving: jars/columba/1.4/lib/je-2.1.30.jar
+Adding archive for resolving: jars/columba/1.4/lib/jhall-2.0_02.jar
+Adding archive for resolving: jars/columba/1.4/lib/jpim.jar
+Adding archive for resolving: jars/columba/1.4/lib/jscf-0.3.jar
+Adding archive for resolving: jars/columba/1.4/lib/jwizz-0.1.3.jar
+Adding archive for resolving: jars/columba/1.4/lib/jython-2.2a1.jar
+Adding archive for resolving: jars/columba/1.4/lib/looks-2.0.2.jar
+Adding archive for resolving: jars/columba/1.4/lib/lucene-1.4.3.jar
+Adding archive for resolving: jars/columba/1.4/lib/macchiato-1.0pre1.jar
+Adding archive for resolving: jars/columba/1.4/lib/migcalendar-5.6.jar
+Adding archive for resolving: jars/columba/1.4/lib/quaqua.jar
+Adding archive for resolving: jars/columba/1.4/lib/ristretto-1.2-all.jar
+Adding archive for resolving: jars/columba/1.4/lib/swingx.jar
+Adding archive for resolving: jars/columba/1.4/lib/usermanual.jar
+Warning: org.jdesktop.jdic.filetypes.Action is a phantom class!
+Warning: org.jdesktop.jdic.filetypes.Association is a phantom class!
+Warning: org.jdesktop.jdic.filetypes.AssociationService is a phantom class!
+Warning: org.jdesktop.jdic.desktop.DesktopException is a phantom class!
+Warning: org.jdesktop.jdic.desktop.Desktop is a phantom class!
+Warning: com.apple.eio.FileManager is a phantom class!
+Warning: com.l2fprod.gui.plaf.skin.SkinLookAndFeel is a phantom class!
+Warning: com.l2fprod.gui.plaf.skin.Skin is a phantom class!
+Warning: javax.persistence.Query is a phantom class!
+Warning: javax.persistence.PersistenceException is a phantom class!
+Warning: javax.persistence.EntityManagerFactory is a phantom class!
+Warning: javax.persistence.Persistence is a phantom class!
+Warning: javax.persistence.EntityManager is a phantom class!
+Warning: javax.persistence.EntityTransaction is a phantom class!
+Warning: org.apache.commons.lang.NumberUtils is a phantom class!
+Warning: javax.persistence.Entity is a phantom class!
+Warning: javax.persistence.GeneratedValue is a phantom class!
+Warning: javax.persistence.Id is a phantom class!
+Warning: org.jdesktop.jdic.tray.SystemTray is a phantom class!
+Warning: org.jdesktop.jdic.tray.TrayIcon is a phantom class!
+Warning: org.objectweb.asm.ClassWriter is a phantom class!
+Warning: org.objectweb.asm.ClassVisitor is a phantom class!
+Warning: org.objectweb.asm.Opcodes is a phantom class!
+Warning: com.thoughtworks.xstream.XStream is a phantom class!
+Warning: antlr.NoViableAltForCharException is a phantom class!
+Warning: antlr.Token is a phantom class!
+Warning: antlr.MismatchedTokenException is a phantom class!
+Warning: antlr.NoViableAltException is a phantom class!
+Warning: org.objectweb.asm.MethodVisitor is a phantom class!
+Warning: org.objectweb.asm.AnnotationVisitor is a phantom class!
+Warning: org.objectweb.asm.Label is a phantom class!
+Warning: org.objectweb.asm.FieldVisitor is a phantom class!
+Warning: org.apache.xml.serialize.DOMSerializer is a phantom class!
+Warning: org.apache.xml.serialize.OutputFormat is a phantom class!
+Warning: org.apache.xml.serialize.XMLSerializer is a phantom class!
+Warning: org.objectweb.asm.Type is a phantom class!
+Warning: antlr.collections.AST is a phantom class!
+Warning: antlr.TokenStreamException is a phantom class!
+Warning: antlr.TokenStreamRecognitionException is a phantom class!
+Warning: antlr.RecognitionException is a phantom class!
+Warning: antlr.CharScanner is a phantom class!
+Warning: antlr.CommonAST is a phantom class!
+Warning: antlr.TokenStream is a phantom class!
+Warning: antlr.ByteBuffer is a phantom class!
+Warning: antlr.CharBuffer is a phantom class!
+Warning: antlr.LexerSharedInputState is a phantom class!
+Warning: antlr.CharStreamIOException is a phantom class!
+Warning: antlr.ANTLRStringBuffer is a phantom class!
+Warning: antlr.ANTLRHashString is a phantom class!
+Warning: antlr.InputBuffer is a phantom class!
+Warning: antlr.collections.impl.BitSet is a phantom class!
+Warning: antlr.SemanticException is a phantom class!
+Warning: antlr.MismatchedCharException is a phantom class!
+Warning: antlr.TokenStreamIOException is a phantom class!
+Warning: antlr.CharStreamException is a phantom class!
+Warning: antlr.LLkParser is a phantom class!
+Warning: antlr.collections.impl.ASTArray is a phantom class!
+Warning: antlr.ASTFactory is a phantom class!
+Warning: antlr.ParserSharedInputState is a phantom class!
+Warning: antlr.TokenBuffer is a phantom class!
+Warning: antlr.ASTPair is a phantom class!
+Warning: com.jniwrapper.win32.registry.RegistryKey is a phantom class!
+Warning: com.jniwrapper.win32.registry.RegistryKeyValues is a phantom class!
+Warning: org.jdesktop.jdic.browser.WebBrowser is a phantom class!
+Warning: java.dyn.InvokeDynamic is a phantom class!
+elapsed time: 97.55s
+creating database in /home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/87758696dc1276cc429fd993896689c4f40e272ec4fba4669b00fc57f97fabb5/ ...
+elapsed time: 0.67s
+loading fact declarations ...
+elapsed time: 1.35s
+loading facts /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+...
+elapsed time: 22.98s
+setting main class to org.columba.core.main.Main
+loading context-insensitive declarations ...
+elapsed time: 3.95s
+loading context-insensitive delta rules ...
+elapsed time: 5.59s
+loading reflection delta rules ...
+elapsed time: 9.12s
+loading client delta rules ...
+elapsed time: 2.86s
+loading auxiliary delta rules ...
+elapsed time: 3.07s
+loading context-insensitive rules 
+...
+[1m[40m[33mPointer analysis START(B[m
+[1m[40m[37melapsed time: [1m[40m[32m677.97s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 73.63s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/context-insensitive/jre1.6-phantom/columba.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m86553380(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m336.3(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m4889(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m6669(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m31478(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m195953(B[m
+Analyze [96mcolumba[0m by [96mci[0m ...
+Computing [93mAliases[0m of [96mcolumba[0m for [96mci[0m ...
+Dumping doop analysis results for columba ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m745,903,965[0m
+
+Analyze [96mcolumba[0m by [96mcollection[0m ...
+Dumping doop analysis results for columba ...
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32morg.columba.core.main.Main(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32morg.**(B[m
+using cached database (/home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/87758696dc1276cc429fd993896689c4f40e272ec4fba4669b00fc57f97fabb5/)
+loading 3-object-sensitive+2-heap declarations ...
+elapsed time: 4.26s
+loading 3-object-sensitive+2-heap delta rules ...
+elapsed time: 5.59s
+loading reflection delta rules ...
+elapsed time: 9.74s
+loading client delta rules ...
+elapsed time: 3.23s
+loading auxiliary delta rules ...
+elapsed time: 3.20s
+loading 3-object-sensitive+2-heap rules 
+loading [1m[40m[33mcontext-sensitive methods(B[m from /home/oopsla21-baton-artifact/doop/ptatoolkit/cache/columba.COLLECTION_METHODS ...
+elapsed time: 2.83s
+...
+[1m[40m[33mPointer analysis START(B[m
+[1m[40m[37melapsed time: [1m[40m[32m195.25s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 15.77s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/3-object-sensitive+2-heap/jre1.6-phantom/columba.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m8840351(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m41.8(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m2842(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m4774(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m25711(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m122208(B[m
+Computing [93mAliases[0m of [96mcolumba[0m for [96mcollection[0m ...
+Dumping doop analysis results for columba ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m109,544,150[0m
+
+Analyze [96mcolumba[0m by [96mzipper-e[0m ...
+Dumping doop analysis results for columba ...
+Analyze columba ...
+Reading points-to analysis results ... 
+[1m[33mZipper starts ...[0m
+Precision loss patterns: [1m[32mDirect+Wrapped+Unwrapped[0m
+#Classes: [1m[32m3747[0m
+#Methods: [1m[32m31324[0m
+
+Building OFG (Object Flow Graph) ... 
+Object Flow Graph Timer elapsed time: 47.95s
+#nodes in OFG: [1m[32m7094171[0m
+#edges in OFG: [1m[32m8600321[0m
+
+Building PFGs (Precision Flow Graphs) and computing precision-critical methods ...
+#avg. nodes in PFG: [1m[32m9061[0m
+#avg. edges in PFG: [1m[32m39348[0m
+
+#whole-program points-to size: [1m[32m86553380[0m
+#PCM points-to size: [1m[32m62592578[0m
+#Precision-critical methods: [1m[32m2600[0m
+[1m[33mZipper finishes, analysis time: [0m[1m[32m285.53s[0m
+Writing Zipper precision-critical methods to /home/oopsla21-baton-artifact/doop/ptatoolkit/out/columba-ZipperPrecisionCriticalMethod-zipper-e-0.05.facts ...
+
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32morg.columba.core.main.Main(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32morg.**(B[m
+using cached database (/home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/87758696dc1276cc429fd993896689c4f40e272ec4fba4669b00fc57f97fabb5/)
+loading 2-object-sensitive+heap declarations ...
+elapsed time: 4.22s
+loading 2-object-sensitive+heap delta rules ...
+elapsed time: 5.53s
+loading reflection delta rules ...
+elapsed time: 9.41s
+loading client delta rules ...
+elapsed time: 3.16s
+loading auxiliary delta rules ...
+elapsed time: 3.14s
+loading 2-object-sensitive+heap rules 
+loading [1m[40m[33mcontext-sensitive methods(B[m from /home/oopsla21-baton-artifact/doop/ptatoolkit/out/columba-ZipperPrecisionCriticalMethod-zipper-e-0.05.facts ...
+elapsed time: 3.20s
+...
+[1m[40m[33mPointer analysis START(B[m
+[1m[40m[37melapsed time: [1m[40m[32m658.27s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 36.32s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/2-object-sensitive+heap/jre1.6-phantom/columba.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m21515246(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m100.4(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m3444(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m5213(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m26053(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m140660(B[m
+Computing [93mAliases[0m of [96mcolumba[0m for [96mzipper-e[0m ...
+Dumping doop analysis results for columba ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m264,361,350[0m
+
+Analyze [96mcolumba[0m by [96mscaler[0m ...
+Dumping doop analysis results for columba ...
+Analyze columba ...
+Reading points-to analysis results ... 
+[1m[33mScaler starts ...[0m
+Given TST value: [1m[32m30000000[0m
+Selected ST value: [1m[32m0[0m
+[1m[33mScaler finishes, analysis time: [0m[1m[32m6.49s[0m
+Writing Scaler method context sensitivities to /home/oopsla21-baton-artifact/doop/ptatoolkit/out/columba-ScalerMethodContext-TST30000000.facts...
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32morg.columba.core.main.Main(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32morg.**(B[m
+using cached database (/home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/87758696dc1276cc429fd993896689c4f40e272ec4fba4669b00fc57f97fabb5/)
+loading specified-sensitive+heap declarations ...
+elapsed time: 4.28s
+loading specified-sensitive+heap delta rules ...
+elapsed time: 5.45s
+loading reflection delta rules ...
+elapsed time: 9.39s
+loading client delta rules ...
+elapsed time: 3.28s
+loading auxiliary delta rules ...
+elapsed time: 3.08s
+loading specified-sensitive+heap rules 
+loading [1m[40m[33mspecified context variants(B[m from /home/oopsla21-baton-artifact/doop/ptatoolkit/out/columba-ScalerMethodContext-TST30000000.facts ...
+elapsed time: 3.00s
+...
+[1m[40m[33mPointer analysis START(B[m
+[1m[40m[37melapsed time: [1m[40m[32m298.90s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 19.38s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/specified-sensitive+heap/jre1.6-phantom/columba.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m9988266(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m47.2(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m2897(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m4799(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m25731(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m123351(B[m
+Computing [93mAliases[0m of [96mcolumba[0m for [96mscaler[0m ...
+Dumping doop analysis results for columba ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m123,010,539[0m
+
+Analyze [96mcolumba[0m by [96mbaton-unity[0m ...
+Obtaining results of selective approaches ...
+Dumping doop analysis results for columba ...
+Dumping doop analysis results for columba ...
+Analyze columba ...
+Reading points-to analysis results ... 
+[1m[33mZipper starts ...[0m
+Precision loss patterns: [1m[32mDirect+Wrapped+Unwrapped[0m
+#Classes: [1m[32m3747[0m
+#Methods: [1m[32m31324[0m
+
+Building OFG (Object Flow Graph) ... 
+Object Flow Graph Timer elapsed time: 45.89s
+#nodes in OFG: [1m[32m7094171[0m
+#edges in OFG: [1m[32m8600321[0m
+
+Building PFGs (Precision Flow Graphs) and computing precision-critical methods ...
+#avg. nodes in PFG: [1m[32m9061[0m
+#avg. edges in PFG: [1m[32m39348[0m
+
+#whole-program points-to size: [1m[32m86553380[0m
+#PCM points-to size: [1m[32m62592578[0m
+#Precision-critical methods: [1m[32m2600[0m
+[1m[33mZipper finishes, analysis time: [0m[1m[32m299.77s[0m
+Writing Zipper precision-critical methods to /home/oopsla21-baton-artifact/doop/ptatoolkit/out/columba-ZipperPrecisionCriticalMethod-zipper-e-0.05.facts ...
+
+Dumping doop analysis results for columba ...
+Analyze columba ...
+Reading points-to analysis results ... 
+[1m[33mScaler starts ...[0m
+Given TST value: [1m[32m30000000[0m
+Selected ST value: [1m[32m0[0m
+[1m[33mScaler finishes, analysis time: [0m[1m[32m6.83s[0m
+Writing Scaler method context sensitivities to /home/oopsla21-baton-artifact/doop/ptatoolkit/out/columba-ScalerMethodContext-TST30000000.facts...
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32morg.columba.core.main.Main(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32morg.**(B[m
+using cached database (/home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/87758696dc1276cc429fd993896689c4f40e272ec4fba4669b00fc57f97fabb5/)
+loading specified-3-sensitive+2-heap declarations ...
+elapsed time: 4.43s
+loading specified-3-sensitive+2-heap delta rules ...
+elapsed time: 5.37s
+loading reflection delta rules ...
+elapsed time: 9.28s
+loading client delta rules ...
+elapsed time: 2.97s
+loading auxiliary delta rules ...
+elapsed time: 3.01s
+loading specified-3-sensitive+2-heap rules 
+loading [1m[40m[33mspecified context variants(B[m from /home/oopsla21-baton-artifact/doop/tmp/columba.SPECIFIEDCS ...
+elapsed time: 3.31s
+...
+[1m[40m[33mPointer analysis START(B[m
+[1m[40m[37melapsed time: [1m[40m[32m336.79s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 15.42s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/specified-3-sensitive+2-heap/jre1.6-phantom/columba.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m6661301(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m32.1(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m2393(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m4522(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m25159(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m118824(B[m
+Computing [93mAliases[0m of [96mcolumba[0m for [96mbaton-unity[0m ...
+Dumping doop analysis results for columba ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m85,401,557[0m
+

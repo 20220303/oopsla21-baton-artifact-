@@ -1,0 +1,321 @@
+nohup: ignoring input
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32morg.archive.crawler.Heritrix(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32morg.**:st.**(B[m
+generating facts (jars/heritrix-1.14.4/heritrix.jar  jars/heritrix-1.14.4/lib/ant-1.6.2.jar jars/heritrix-1.14.4/lib/bsh-2.0b4.jar jars/heritrix-1.14.4/lib/commons-cli-1.0.jar jars/heritrix-1.14.4/lib/commons-codec-1.3.jar jars/heritrix-1.14.4/lib/commons-collections-3.1.jar jars/heritrix-1.14.4/lib/commons-httpclient-3.1.jar jars/heritrix-1.14.4/lib/commons-io-1.3.1.jar jars/heritrix-1.14.4/lib/commons-lang-2.3.jar jars/heritrix-1.14.4/lib/commons-logging-1.0.4.jar jars/heritrix-1.14.4/lib/commons-net-2.0.jar jars/heritrix-1.14.4/lib/commons-pool-1.3.jar jars/heritrix-1.14.4/lib/dnsjava-2.0.3.jar jars/heritrix-1.14.4/lib/fastutil-5.0.3-heritrix-subset-1.0.jar jars/heritrix-1.14.4/lib/itext-1.2.0.jar jars/heritrix-1.14.4/lib/jasper-compiler-tomcat-4.1.30.jar jars/heritrix-1.14.4/lib/jasper-runtime-tomcat-4.1.30.jar jars/heritrix-1.14.4/lib/javaswf-CVS-SNAPSHOT-1.jar jars/heritrix-1.14.4/lib/je-3.3.82.jar jars/heritrix-1.14.4/lib/jericho-html-2.6.jar jars/heritrix-1.14.4/lib/jets3t-0.5.0.jar jars/heritrix-1.14.4/lib/jetty-4.2.23.jar jars/heritrix-1.14.4/lib/joda-time-1.6.jar jars/heritrix-1.14.4/lib/junit-3.8.2.jar jars/heritrix-1.14.4/lib/libidn-0.5.9.jar jars/heritrix-1.14.4/lib/mg4j-1.0.1.jar jars/heritrix-1.14.4/lib/poi-2.0-RC1-20031102.jar jars/heritrix-1.14.4/lib/poi-scratchpad-2.0-RC1-20031102.jar jars/heritrix-1.14.4/lib/servlet-tomcat-4.1.30.jar) in /home/oopsla21-baton-artifact/doop/cache/input-facts/jre1.6-phantom/51512257c7503d7b476d86723df64c070b48132cd83f8aa35da873d8b047c3e5/ /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+...
+Adding archive: jars/heritrix-1.14.4/heritrix.jar
+Adding archive for resolving: /home/oopsla21-baton-artifact/doop/externals/jre1.6/lib/rt.jar
+Adding archive for resolving: /home/oopsla21-baton-artifact/doop/externals/jre1.6/lib/jce.jar
+Adding archive for resolving: /home/oopsla21-baton-artifact/doop/externals/jre1.6/lib/jsse.jar
+Adding archive for resolving: jars/heritrix-1.14.4/lib/ant-1.6.2.jar
+Adding archive for resolving: jars/heritrix-1.14.4/lib/bsh-2.0b4.jar
+Adding archive for resolving: jars/heritrix-1.14.4/lib/commons-cli-1.0.jar
+Adding archive for resolving: jars/heritrix-1.14.4/lib/commons-codec-1.3.jar
+Adding archive for resolving: jars/heritrix-1.14.4/lib/commons-collections-3.1.jar
+Adding archive for resolving: jars/heritrix-1.14.4/lib/commons-httpclient-3.1.jar
+Adding archive for resolving: jars/heritrix-1.14.4/lib/commons-io-1.3.1.jar
+Adding archive for resolving: jars/heritrix-1.14.4/lib/commons-lang-2.3.jar
+Adding archive for resolving: jars/heritrix-1.14.4/lib/commons-logging-1.0.4.jar
+Adding archive for resolving: jars/heritrix-1.14.4/lib/commons-net-2.0.jar
+Adding archive for resolving: jars/heritrix-1.14.4/lib/commons-pool-1.3.jar
+Adding archive for resolving: jars/heritrix-1.14.4/lib/dnsjava-2.0.3.jar
+Adding archive for resolving: jars/heritrix-1.14.4/lib/fastutil-5.0.3-heritrix-subset-1.0.jar
+Adding archive for resolving: jars/heritrix-1.14.4/lib/itext-1.2.0.jar
+Adding archive for resolving: jars/heritrix-1.14.4/lib/jasper-compiler-tomcat-4.1.30.jar
+Adding archive for resolving: jars/heritrix-1.14.4/lib/jasper-runtime-tomcat-4.1.30.jar
+Adding archive for resolving: jars/heritrix-1.14.4/lib/javaswf-CVS-SNAPSHOT-1.jar
+Adding archive for resolving: jars/heritrix-1.14.4/lib/je-3.3.82.jar
+Adding archive for resolving: jars/heritrix-1.14.4/lib/jericho-html-2.6.jar
+Adding archive for resolving: jars/heritrix-1.14.4/lib/jets3t-0.5.0.jar
+Adding archive for resolving: jars/heritrix-1.14.4/lib/jetty-4.2.23.jar
+Adding archive for resolving: jars/heritrix-1.14.4/lib/joda-time-1.6.jar
+Adding archive for resolving: jars/heritrix-1.14.4/lib/junit-3.8.2.jar
+Adding archive for resolving: jars/heritrix-1.14.4/lib/libidn-0.5.9.jar
+Adding archive for resolving: jars/heritrix-1.14.4/lib/mg4j-1.0.1.jar
+Adding archive for resolving: jars/heritrix-1.14.4/lib/poi-2.0-RC1-20031102.jar
+Adding archive for resolving: jars/heritrix-1.14.4/lib/poi-scratchpad-2.0-RC1-20031102.jar
+Adding archive for resolving: jars/heritrix-1.14.4/lib/servlet-tomcat-4.1.30.jar
+Warning: it.unimi.dsi.fastutil.chars.CharIterator is a phantom class!
+Warning: it.unimi.dsi.fastutil.chars.CharSet is a phantom class!
+Warning: it.unimi.dsi.fastutil.chars.Char2CharMap is a phantom class!
+Warning: it.unimi.dsi.fastutil.chars.CharArrays is a phantom class!
+Warning: org.apache.log4j.BasicConfigurator is a phantom class!
+Warning: org.apache.log4j.Logger is a phantom class!
+Warning: org.apache.log4j.Level is a phantom class!
+Warning: org.apache.log4j.LogManager is a phantom class!
+Warning: it.unimi.dsi.fastutil.objects.Object2LongOpenHashMap is a phantom class!
+Warning: org.apache.tools.ant.launch.Locator is a phantom class!
+Warning: org.slf4j.Logger is a phantom class!
+Warning: org.slf4j.LoggerFactory is a phantom class!
+Warning: org.apache.log4j.Priority is a phantom class!
+Warning: java.dyn.InvokeDynamic is a phantom class!
+elapsed time: 111.35s
+creating database in /home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/51512257c7503d7b476d86723df64c070b48132cd83f8aa35da873d8b047c3e5/ ...
+elapsed time: 0.65s
+loading fact declarations ...
+elapsed time: 1.40s
+loading facts /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+...
+elapsed time: 21.36s
+setting main class to org.archive.crawler.Heritrix
+loading context-insensitive declarations ...
+elapsed time: 3.87s
+loading context-insensitive delta rules ...
+elapsed time: 5.24s
+loading reflection delta rules ...
+elapsed time: 8.24s
+loading client delta rules ...
+elapsed time: 2.79s
+loading auxiliary delta rules ...
+elapsed time: 3.01s
+loading context-insensitive rules 
+...
+[1m[40m[33mPointer analysis START(B[m
+[1m[40m[37melapsed time: [1m[40m[32m170.82s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 17.80s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/context-insensitive/jre1.6-phantom/heritrix.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m19576304(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m120.3(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m2514(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m3264(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m18820(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m117551(B[m
+Analyze [96mheritrix[0m by [96mci[0m ...
+Computing [93mAliases[0m of [96mheritrix[0m for [96mci[0m ...
+Dumping doop analysis results for heritrix ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m208,124,549[0m
+
+Analyze [96mheritrix[0m by [96mcollection[0m ...
+Dumping doop analysis results for heritrix ...
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32morg.archive.crawler.Heritrix(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32morg.**:st.**(B[m
+using cached database (/home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/51512257c7503d7b476d86723df64c070b48132cd83f8aa35da873d8b047c3e5/)
+loading 3-object-sensitive+2-heap declarations ...
+elapsed time: 3.97s
+loading 3-object-sensitive+2-heap delta rules ...
+elapsed time: 5.16s
+loading reflection delta rules ...
+elapsed time: 8.82s
+loading client delta rules ...
+elapsed time: 2.84s
+loading auxiliary delta rules ...
+elapsed time: 2.90s
+loading 3-object-sensitive+2-heap rules 
+loading [1m[40m[33mcontext-sensitive methods(B[m from /home/oopsla21-baton-artifact/doop/ptatoolkit/cache/heritrix.COLLECTION_METHODS ...
+elapsed time: 2.51s
+...
+[1m[40m[33mPointer analysis START(B[m
+[1m[40m[37melapsed time: [1m[40m[32m195.34s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 13.91s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/3-object-sensitive+2-heap/jre1.6-phantom/heritrix.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m6268412(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m41.0(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m1628(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m2553(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m17549(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m94501(B[m
+Computing [93mAliases[0m of [96mheritrix[0m for [96mcollection[0m ...
+Dumping doop analysis results for heritrix ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m71,227,109[0m
+
+Analyze [96mheritrix[0m by [96mzipper-e[0m ...
+Dumping doop analysis results for heritrix ...
+Analyze heritrix ...
+Reading points-to analysis results ... 
+[1m[33mZipper starts ...[0m
+Precision loss patterns: [1m[32mDirect+Wrapped+Unwrapped[0m
+#Classes: [1m[32m2104[0m
+#Methods: [1m[32m18741[0m
+
+Building OFG (Object Flow Graph) ... 
+Object Flow Graph Timer elapsed time: 2.35s
+#nodes in OFG: [1m[32m239851[0m
+#edges in OFG: [1m[32m585277[0m
+
+Building PFGs (Precision Flow Graphs) and computing precision-critical methods ...
+#avg. nodes in PFG: [1m[32m3986[0m
+#avg. edges in PFG: [1m[32m11313[0m
+
+#whole-program points-to size: [1m[32m19576304[0m
+#PCM points-to size: [1m[32m13981472[0m
+#Precision-critical methods: [1m[32m2253[0m
+[1m[33mZipper finishes, analysis time: [0m[1m[32m15.70s[0m
+Writing Zipper precision-critical methods to /home/oopsla21-baton-artifact/doop/ptatoolkit/out/heritrix-ZipperPrecisionCriticalMethod-zipper-e-0.05.facts ...
+
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32morg.archive.crawler.Heritrix(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32morg.**:st.**(B[m
+using cached database (/home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/51512257c7503d7b476d86723df64c070b48132cd83f8aa35da873d8b047c3e5/)
+loading 2-object-sensitive+heap declarations ...
+elapsed time: 4.09s
+loading 2-object-sensitive+heap delta rules ...
+elapsed time: 5.18s
+loading reflection delta rules ...
+elapsed time: 8.54s
+loading client delta rules ...
+elapsed time: 2.96s
+loading auxiliary delta rules ...
+elapsed time: 2.86s
+loading 2-object-sensitive+heap rules 
+loading [1m[40m[33mcontext-sensitive methods(B[m from /home/oopsla21-baton-artifact/doop/ptatoolkit/out/heritrix-ZipperPrecisionCriticalMethod-zipper-e-0.05.facts ...
+elapsed time: 2.88s
+...
+[1m[40m[33mPointer analysis START(B[m
+[1m[40m[37melapsed time: [1m[40m[32m297.04s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 31.60s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/2-object-sensitive+heap/jre1.6-phantom/heritrix.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m7179587(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m47.2(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m1734(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m2501(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m17419(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m96633(B[m
+Computing [93mAliases[0m of [96mheritrix[0m for [96mzipper-e[0m ...
+Dumping doop analysis results for heritrix ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m78,727,889[0m
+
+Analyze [96mheritrix[0m by [96mscaler[0m ...
+Dumping doop analysis results for heritrix ...
+Analyze heritrix ...
+Reading points-to analysis results ... 
+[1m[33mScaler starts ...[0m
+Given TST value: [1m[32m30000000[0m
+Selected ST value: [1m[32m17229[0m
+[1m[33mScaler finishes, analysis time: [0m[1m[32m2.45s[0m
+Writing Scaler method context sensitivities to /home/oopsla21-baton-artifact/doop/ptatoolkit/out/heritrix-ScalerMethodContext-TST30000000.facts...
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32morg.archive.crawler.Heritrix(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32morg.**:st.**(B[m
+using cached database (/home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/51512257c7503d7b476d86723df64c070b48132cd83f8aa35da873d8b047c3e5/)
+loading specified-sensitive+heap declarations ...
+elapsed time: 7.17s
+loading specified-sensitive+heap delta rules ...
+elapsed time: 9.84s
+loading reflection delta rules ...
+elapsed time: 16.95s
+loading client delta rules ...
+elapsed time: 4.53s
+loading auxiliary delta rules ...
+elapsed time: 4.74s
+loading specified-sensitive+heap rules 
+loading [1m[40m[33mspecified context variants(B[m from /home/oopsla21-baton-artifact/doop/ptatoolkit/out/heritrix-ScalerMethodContext-TST30000000.facts ...
+elapsed time: 3.73s
+...
+[1m[40m[33mPointer analysis START(B[m
+<2022/12/06 08:23:31.230> WARN. apply delta for array predicate VarPointsTo has 142260282 deltas to apply
+[1m[40m[37melapsed time: [1m[40m[32m4372.60s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 87.76s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/specified-sensitive+heap/jre1.6-phantom/heritrix.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m7106210(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m46.7(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m1637(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m2461(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m17461(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m94785(B[m
+Computing [93mAliases[0m of [96mheritrix[0m for [96mscaler[0m ...
+Dumping doop analysis results for heritrix ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m80,018,315[0m
+
+Analyze [96mheritrix[0m by [96mbaton-unity[0m ...
+Obtaining results of selective approaches ...
+Dumping doop analysis results for heritrix ...
+Dumping doop analysis results for heritrix ...
+Analyze heritrix ...
+Reading points-to analysis results ... 
+[1m[33mZipper starts ...[0m
+Precision loss patterns: [1m[32mDirect+Wrapped+Unwrapped[0m
+#Classes: [1m[32m2104[0m
+#Methods: [1m[32m18741[0m
+
+Building OFG (Object Flow Graph) ... 
+Object Flow Graph Timer elapsed time: 5.78s
+#nodes in OFG: [1m[32m239851[0m
+#edges in OFG: [1m[32m585277[0m
+
+Building PFGs (Precision Flow Graphs) and computing precision-critical methods ...
+#avg. nodes in PFG: [1m[32m3986[0m
+#avg. edges in PFG: [1m[32m11313[0m
+
+#whole-program points-to size: [1m[32m19576304[0m
+#PCM points-to size: [1m[32m13981472[0m
+#Precision-critical methods: [1m[32m2253[0m
+[1m[33mZipper finishes, analysis time: [0m[1m[32m37.93s[0m
+Writing Zipper precision-critical methods to /home/oopsla21-baton-artifact/doop/ptatoolkit/out/heritrix-ZipperPrecisionCriticalMethod-zipper-e-0.05.facts ...
+
+Dumping doop analysis results for heritrix ...
+Analyze heritrix ...
+Reading points-to analysis results ... 
+[1m[33mScaler starts ...[0m
+Given TST value: [1m[32m30000000[0m
+Selected ST value: [1m[32m17229[0m
+[1m[33mScaler finishes, analysis time: [0m[1m[32m2.87s[0m
+Writing Scaler method context sensitivities to /home/oopsla21-baton-artifact/doop/ptatoolkit/out/heritrix-ScalerMethodContext-TST30000000.facts...
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32morg.archive.crawler.Heritrix(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32morg.**:st.**(B[m
+using cached database (/home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/51512257c7503d7b476d86723df64c070b48132cd83f8aa35da873d8b047c3e5/)
+loading specified-3-sensitive+2-heap declarations ...
+elapsed time: 7.67s
+loading specified-3-sensitive+2-heap delta rules ...
+elapsed time: 10.12s
+loading reflection delta rules ...
+elapsed time: 17.66s
+loading client delta rules ...
+elapsed time: 4.84s
+loading auxiliary delta rules ...
+elapsed time: 4.98s
+loading specified-3-sensitive+2-heap rules 
+loading [1m[40m[33mspecified context variants(B[m from /home/oopsla21-baton-artifact/doop/tmp/heritrix.SPECIFIEDCS ...
+elapsed time: 4.35s
+...
+[1m[40m[33mPointer analysis START(B[m
+[1m[40m[37melapsed time: [1m[40m[32m1452.63s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 44.06s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/specified-3-sensitive+2-heap/jre1.6-phantom/heritrix.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m2546396(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m17.7(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m1200(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m2182(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m16428(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m82301(B[m
+Computing [93mAliases[0m of [96mheritrix[0m for [96mbaton-unity[0m ...
+Dumping doop analysis results for heritrix ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m20,679,819[0m
+

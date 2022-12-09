@@ -1,0 +1,370 @@
+nohup: ignoring input
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32mat.laborg.briss.Briss(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32mat.**(B[m
+using cached database (/home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/7c594cf2d42785473f621ce52ae5dc0afc622506a6ebf60ce3685f2bf57cb23c/)
+loading context-insensitive declarations ...
+elapsed time: 3.66s
+loading context-insensitive delta rules ...
+elapsed time: 4.58s
+loading reflection delta rules ...
+elapsed time: 7.05s
+loading client delta rules ...
+elapsed time: 2.82s
+loading auxiliary delta rules ...
+elapsed time: 2.82s
+loading context-insensitive rules 
+...
+[1m[40m[33mPointer analysis START(B[m
+[1m[40m[37melapsed time: [1m[40m[32m214.21s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 30.20s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/context-insensitive/jre1.6-phantom/briss-0.9.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m34335976(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m136.6(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m4904(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m6297(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m26582(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m176785(B[m
+Analyze [96mbriss[0m by [96mci[0m ...
+Computing [93mAliases[0m of [96mbriss[0m for [96mci[0m ...
+Dumping doop analysis results for briss ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m370,495,823[0m
+
+Analyze [96mbriss[0m by [96mzipper-e[0m ...
+Dumping doop analysis results for briss ...
+Analyze briss ...
+Reading points-to analysis results ... 
+[1m[33mZipper starts ...[0m
+Precision loss patterns: [1m[32mDirect+Wrapped+Unwrapped[0m
+#Classes: [1m[32m3231[0m
+#Methods: [1m[32m26381[0m
+
+Building OFG (Object Flow Graph) ... 
+Object Flow Graph Timer elapsed time: 3.51s
+#nodes in OFG: [1m[32m369005[0m
+#edges in OFG: [1m[32m1262842[0m
+
+Building PFGs (Precision Flow Graphs) and computing precision-critical methods ...
+#avg. nodes in PFG: [1m[32m5070[0m
+#avg. edges in PFG: [1m[32m19863[0m
+
+#whole-program points-to size: [1m[32m34335976[0m
+#PCM points-to size: [1m[32m26357402[0m
+#Precision-critical methods: [1m[32m6180[0m
+[1m[33mZipper finishes, analysis time: [0m[1m[32m73.22s[0m
+Writing Zipper precision-critical methods to /home/oopsla21-baton-artifact/doop/ptatoolkit/out/briss-ZipperPrecisionCriticalMethod-zipper-e-0.12.facts ...
+
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32mat.laborg.briss.Briss(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32mat.**(B[m
+using cached database (/home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/7c594cf2d42785473f621ce52ae5dc0afc622506a6ebf60ce3685f2bf57cb23c/)
+loading 2-object-sensitive+heap declarations ...
+elapsed time: 3.79s
+loading 2-object-sensitive+heap delta rules ...
+elapsed time: 5.13s
+loading reflection delta rules ...
+elapsed time: 7.53s
+loading client delta rules ...
+elapsed time: 2.81s
+loading auxiliary delta rules ...
+elapsed time: 2.66s
+loading 2-object-sensitive+heap rules 
+loading [1m[40m[33mcontext-sensitive methods(B[m from /home/oopsla21-baton-artifact/doop/ptatoolkit/out/briss-ZipperPrecisionCriticalMethod-zipper-e-0.12.facts ...
+elapsed time: 2.40s
+...
+[1m[40m[33mPointer analysis START(B[m
+<2022/12/07 10:30:50.559> WARN. apply delta has 362921032 deltas to apply
+<2022/12/07 10:30:51.569> WARN. apply delta is 2 % complete
+<2022/12/07 10:30:52.932> WARN. apply delta is 4 % complete
+<2022/12/07 10:30:53.092> WARN. apply delta is 5 % complete
+<2022/12/07 10:31:04.273> WARN. apply delta is 23 % complete
+<2022/12/07 10:31:09.602> WARN. apply delta is 32 % complete
+<2022/12/07 10:31:14.659> WARN. apply delta is 39 % complete
+<2022/12/07 10:31:15.052> WARN. apply delta is 40 % complete
+<2022/12/07 10:31:15.057> WARN. apply delta for array predicate VarPointsTo has 191948647 deltas to apply
+<2022/12/07 10:32:39.889> WARN. apply delta is 92 % complete
+<2022/12/07 10:32:39.915> WARN. apply delta is 93 % complete
+<2022/12/07 10:32:42.117> WARN. apply delta is 96 % complete
+<2022/12/07 10:32:42.130> WARN. apply delta is 97 % complete
+<2022/12/07 10:32:42.986> WARN. apply delta is 99 % complete
+<2022/12/07 10:32:43.021> WARN. apply delta is 100 % complete
+[1m[40m[37melapsed time: [1m[40m[32m1595.07s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 50.10s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/2-object-sensitive+heap/jre1.6-phantom/briss-0.9.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m5966496(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m24.6(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m3016(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m5209(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m25440(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m150826(B[m
+Computing [93mAliases[0m of [96mbriss[0m for [96mzipper-e[0m ...
+Dumping doop analysis results for briss ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m80,559,736[0m
+
+Analyze [96mbriss[0m by [96mscaler[0m ...
+Dumping doop analysis results for briss ...
+Analyze briss ...
+Reading points-to analysis results ... 
+[1m[33mScaler starts ...[0m
+Given TST value: [1m[32m60000000[0m
+Selected ST value: [1m[32m20879[0m
+[1m[33mScaler finishes, analysis time: [0m[1m[32m2.43s[0m
+Writing Scaler method context sensitivities to /home/oopsla21-baton-artifact/doop/ptatoolkit/out/briss-ScalerMethodContext-TST60000000.facts...
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32mat.laborg.briss.Briss(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32mat.**(B[m
+using cached database (/home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/7c594cf2d42785473f621ce52ae5dc0afc622506a6ebf60ce3685f2bf57cb23c/)
+loading specified-sensitive+heap declarations ...
+elapsed time: 3.74s
+loading specified-sensitive+heap delta rules ...
+elapsed time: 4.67s
+loading reflection delta rules ...
+elapsed time: 6.95s
+loading client delta rules ...
+elapsed time: 2.65s
+loading auxiliary delta rules ...
+elapsed time: 2.65s
+loading specified-sensitive+heap rules 
+loading [1m[40m[33mspecified context variants(B[m from /home/oopsla21-baton-artifact/doop/ptatoolkit/out/briss-ScalerMethodContext-TST60000000.facts ...
+elapsed time: 2.18s
+...
+[1m[40m[33mPointer analysis START(B[m
+<2022/12/07 11:33:46.099> WARN. apply delta has 650936567 deltas to apply
+<2022/12/07 11:33:47.703> WARN. apply delta is 1 % complete
+<2022/12/07 11:33:48.745> WARN. apply delta is 3 % complete
+<2022/12/07 11:33:50.908> WARN. apply delta is 5 % complete
+<2022/12/07 11:34:06.111> WARN. apply delta is 18 % complete
+<2022/12/07 11:34:08.721> WARN. apply delta is 21 % complete
+<2022/12/07 11:34:10.466> WARN. apply delta is 22 % complete
+<2022/12/07 11:34:12.349> WARN. apply delta is 23 % complete
+<2022/12/07 11:34:16.077> WARN. apply delta is 26 % complete
+<2022/12/07 11:34:17.026> WARN. apply delta for array predicate VarPointsTo has 394893069 deltas to apply
+<2022/12/07 11:35:48.702> WARN. apply delta is 87 % complete
+<2022/12/07 11:36:08.141> WARN. apply delta is 99 % complete
+<2022/12/07 11:36:08.329> WARN. apply delta is 100 % complete
+[1m[40m[37melapsed time: [1m[40m[32m3463.30s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 95.08s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/specified-sensitive+heap/jre1.6-phantom/briss-0.9.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m8830552(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m36.4(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m3298(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m5190(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m25541(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m151224(B[m
+Computing [93mAliases[0m of [96mbriss[0m for [96mscaler[0m ...
+Dumping doop analysis results for briss ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m97,300,729[0m
+
+Analyze [96mbriss[0m by [96mbaton-relay[0m ...
+Obtaining results of selective approaches ...
+Dumping doop analysis results for briss ...
+Dumping doop analysis results for briss ...
+Analyze briss ...
+Reading points-to analysis results ... 
+[1m[33mZipper starts ...[0m
+Precision loss patterns: [1m[32mDirect+Wrapped+Unwrapped[0m
+#Classes: [1m[32m3231[0m
+#Methods: [1m[32m26381[0m
+
+Building OFG (Object Flow Graph) ... 
+Object Flow Graph Timer elapsed time: 3.38s
+#nodes in OFG: [1m[32m369005[0m
+#edges in OFG: [1m[32m1262842[0m
+
+Building PFGs (Precision Flow Graphs) and computing precision-critical methods ...
+#avg. nodes in PFG: [1m[32m5070[0m
+#avg. edges in PFG: [1m[32m19863[0m
+
+#whole-program points-to size: [1m[32m34335976[0m
+#PCM points-to size: [1m[32m26357402[0m
+#Precision-critical methods: [1m[32m6180[0m
+[1m[33mZipper finishes, analysis time: [0m[1m[32m73.46s[0m
+Writing Zipper precision-critical methods to /home/oopsla21-baton-artifact/doop/ptatoolkit/out/briss-ZipperPrecisionCriticalMethod-zipper-e-0.12.facts ...
+
+Dumping doop analysis results for briss ...
+Analyze briss ...
+Reading points-to analysis results ... 
+[1m[33mScaler starts ...[0m
+Given TST value: [1m[32m60000000[0m
+Selected ST value: [1m[32m20879[0m
+[1m[33mScaler finishes, analysis time: [0m[1m[32m2.43s[0m
+Writing Scaler method context sensitivities to /home/oopsla21-baton-artifact/doop/ptatoolkit/out/briss-ScalerMethodContext-TST60000000.facts...
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32mat.laborg.briss.Briss(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32mat.**(B[m
+using cached database (/home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/7c594cf2d42785473f621ce52ae5dc0afc622506a6ebf60ce3685f2bf57cb23c/)
+loading 3-object-sensitive+2-heap declarations ...
+elapsed time: 3.73s
+loading 3-object-sensitive+2-heap delta rules ...
+elapsed time: 4.69s
+loading reflection delta rules ...
+elapsed time: 7.76s
+loading client delta rules ...
+elapsed time: 2.70s
+loading auxiliary delta rules ...
+elapsed time: 2.64s
+loading 3-object-sensitive+2-heap rules 
+loading [1m[40m[33mcontext-sensitive methods(B[m from /home/oopsla21-baton-artifact/doop/ptatoolkit/cache/briss.COLLECTION_METHODS ...
+elapsed time: 2.37s
+...
+[1m[40m[33mPointer analysis START(B[m
+[1m[40m[37melapsed time: [1m[40m[32m130.90s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 15.10s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/3-object-sensitive+2-heap/jre1.6-phantom/briss-0.9.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m9454391(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m38.7(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m3416(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m5373(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m25706(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m153414(B[m
+Analyzing [96mbriss[0m, [96mbaton-relay pass 1[0m (colletion) ...
+Computing [93mAliases[0m of [96mbriss[0m for [96mbaton-relayo1-p1[0m ...
+Dumping doop analysis results for briss ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m101,712,404[0m
+
+Analyzing [96mbriss[0m, [96mbaton-relay pass 2[0m (zipper-e) ...
+Dumping doop analysis results for briss ...
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32mat.laborg.briss.Briss(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32mat.**(B[m
+using cached database (/home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/7c594cf2d42785473f621ce52ae5dc0afc622506a6ebf60ce3685f2bf57cb23c/)
+loading specified-3-sensitive+2-heap declarations ...
+elapsed time: 3.31s
+loading specified-3-sensitive+2-heap delta rules ...
+elapsed time: 4.67s
+loading reflection delta rules ...
+elapsed time: 6.90s
+loading client delta rules ...
+elapsed time: 2.61s
+loading auxiliary delta rules ...
+elapsed time: 2.68s
+loading specified-3-sensitive+2-heap rules 
+loading [1m[40m[33mprecise var points-to(B[m from /home/oopsla21-baton-artifact/doop/ptatoolkit/cache/briss.VPT ...
+elapsed time: 17.85s
+loading [1m[40m[33mspecified context variants(B[m from /home/oopsla21-baton-artifact/doop/tmp/briss-p2.SPECIFIEDCS ...
+elapsed time: 2.43s
+...
+[1m[40m[33mPointer analysis START(B[m
+<2022/12/07 12:33:31.105> WARN. apply delta has 367035602 deltas to apply
+<2022/12/07 12:33:31.920> WARN. apply delta is 1 % complete
+<2022/12/07 12:33:32.767> WARN. apply delta is 3 % complete
+<2022/12/07 12:33:34.308> WARN. apply delta is 6 % complete
+<2022/12/07 12:33:34.553> WARN. apply delta is 7 % complete
+<2022/12/07 12:33:39.668> WARN. apply delta is 16 % complete
+<2022/12/07 12:33:44.512> WARN. apply delta is 22 % complete
+<2022/12/07 12:33:47.513> WARN. apply delta is 26 % complete
+<2022/12/07 12:33:47.513> WARN. apply delta for array predicate VarPointsTo has 179576763 deltas to apply
+<2022/12/07 12:34:22.961> WARN. apply delta is 75 % complete
+<2022/12/07 12:34:23.249> WARN. apply delta is 76 % complete
+<2022/12/07 12:34:23.609> WARN. apply delta is 77 % complete
+<2022/12/07 12:34:24.425> WARN. apply delta is 79 % complete
+<2022/12/07 12:34:24.655> WARN. apply delta is 80 % complete
+<2022/12/07 12:34:34.923> WARN. apply delta is 99 % complete
+<2022/12/07 12:34:35.415> WARN. apply delta is 100 % complete
+[1m[40m[37melapsed time: [1m[40m[32m2403.51s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 47.71s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/specified-3-sensitive+2-heap/jre1.6-phantom/briss-0.9.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m5279719(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m21.8(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m2918(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m5147(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m25432(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m150621(B[m
+Computing [93mAliases[0m of [96mbriss[0m for [96mbaton-relayo1-p2[0m ...
+Dumping doop analysis results for briss ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m77,196,053[0m
+
+Analyzing [96mbriss[0m, [96mbaton-relay pass 3[0m (scaler) ...
+Dumping doop analysis results for briss ...
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32mat.laborg.briss.Briss(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32mat.**(B[m
+using cached database (/home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/7c594cf2d42785473f621ce52ae5dc0afc622506a6ebf60ce3685f2bf57cb23c/)
+loading specified-3-sensitive+2-heap declarations ...
+elapsed time: 3.63s
+loading specified-3-sensitive+2-heap delta rules ...
+elapsed time: 4.94s
+loading reflection delta rules ...
+elapsed time: 7.68s
+loading client delta rules ...
+elapsed time: 3.17s
+loading auxiliary delta rules ...
+elapsed time: 3.27s
+loading specified-3-sensitive+2-heap rules 
+loading [1m[40m[33mprecise var points-to(B[m from /home/oopsla21-baton-artifact/doop/ptatoolkit/cache/briss.VPT ...
+elapsed time: 12.22s
+loading [1m[40m[33mspecified context variants(B[m from /home/oopsla21-baton-artifact/doop/tmp/briss-p3.SPECIFIEDCS ...
+elapsed time: 2.80s
+...
+[1m[40m[33mPointer analysis START(B[m
+<2022/12/07 14:22:15.628> WARN. apply delta has 738946837 deltas to apply
+<2022/12/07 14:22:17.644> WARN. apply delta is 1 % complete
+<2022/12/07 14:22:19.041> WARN. apply delta is 2 % complete
+<2022/12/07 14:22:19.709> WARN. apply delta is 3 % complete
+<2022/12/07 14:22:20.638> WARN. apply delta for array predicate MergeBasis has 118733403 deltas to apply
+<2022/12/07 14:22:56.064> WARN. apply delta is 19 % complete
+<2022/12/07 14:23:10.386> WARN. apply delta is 25 % complete
+<2022/12/07 14:23:11.514> WARN. apply delta for array predicate VarPointsTo has 398125242 deltas to apply
+<2022/12/07 14:26:24.486> WARN. apply delta is 79 % complete
+<2022/12/07 14:26:28.848> WARN. apply delta is 80 % complete
+<2022/12/07 14:26:29.049> WARN. apply delta is 81 % complete
+<2022/12/07 14:26:46.164> WARN. apply delta is 84 % complete
+<2022/12/07 14:27:18.286> WARN. apply delta is 94 % complete
+<2022/12/07 14:27:18.487> WARN. apply delta is 95 % complete
+<2022/12/07 14:27:45.784> WARN. apply delta is 99 % complete
+<2022/12/07 14:27:46.178> WARN. apply delta is 100 % complete
+[1m[40m[37melapsed time: [1m[40m[32m6653.60s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 217.77s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/specified-3-sensitive+2-heap/jre1.6-phantom/briss-0.9.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m5178884(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m21.4(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m2807(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m5028(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m25378(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m149864(B[m
+Computing [93mAliases[0m of [96mbriss[0m for [96mbaton-relayo1-p3[0m ...
+Dumping doop analysis results for briss ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m75,371,504[0m
+

@@ -1,0 +1,386 @@
+nohup: ignoring input
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32mnet.sourceforge.pmd.PMD(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32mnet.**(B[m
+generating facts (jars/pmd/5.3.2/pmd-core-5.3.2.jar  jars/pmd/5.3.2/asm-5.0.3.jar jars/pmd/5.3.2/commons-io-2.4.jar jars/pmd/5.3.2/commons-lang3-3.3.2.jar jars/pmd/5.3.2/javacc-5.0.jar jars/pmd/5.3.2/jaxen-1.1.4.jar jars/pmd/5.3.2/jcommander-1.35.jar jars/pmd/5.3.2/saxon-9.1.0.8.jar) in /home/oopsla21-baton-artifact/doop/cache/input-facts/jre1.6-phantom/df7ccc174f9bf9afadbc6a57861365820650d47423141c730e7032045c5fbac8/ /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+...
+Adding archive: jars/pmd/5.3.2/pmd-core-5.3.2.jar
+Adding archive: jars/pmd/5.3.2/pmd-java-5.3.2.jar
+Adding archive for resolving: /home/oopsla21-baton-artifact/doop/externals/jre1.6/lib/rt.jar
+Adding archive for resolving: /home/oopsla21-baton-artifact/doop/externals/jre1.6/lib/jce.jar
+Adding archive for resolving: /home/oopsla21-baton-artifact/doop/externals/jre1.6/lib/jsse.jar
+Adding archive for resolving: jars/pmd/5.3.2/asm-5.0.3.jar
+Adding archive for resolving: jars/pmd/5.3.2/commons-io-2.4.jar
+Adding archive for resolving: jars/pmd/5.3.2/commons-lang3-3.3.2.jar
+Adding archive for resolving: jars/pmd/5.3.2/javacc-5.0.jar
+Adding archive for resolving: jars/pmd/5.3.2/jaxen-1.1.4.jar
+Adding archive for resolving: jars/pmd/5.3.2/jcommander-1.35.jar
+Adding archive for resolving: jars/pmd/5.3.2/saxon-9.1.0.8.jar
+Warning: org.apache.tools.ant.Project is a phantom class!
+Warning: org.apache.tools.ant.types.Path is a phantom class!
+Warning: org.apache.tools.ant.DirectoryScanner is a phantom class!
+Warning: org.apache.tools.ant.AntClassLoader is a phantom class!
+Warning: org.apache.tools.ant.types.FileSet is a phantom class!
+Warning: org.apache.tools.ant.BuildException is a phantom class!
+Warning: org.apache.tools.ant.Task is a phantom class!
+Warning: org.apache.tools.ant.types.Reference is a phantom class!
+Warning: org.apache.tools.ant.types.Parameter is a phantom class!
+Warning: org.apache.tools.ant.types.EnumeratedAttribute is a phantom class!
+Warning: java.dyn.InvokeDynamic is a phantom class!
+elapsed time: 82.56s
+creating database in /home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/df7ccc174f9bf9afadbc6a57861365820650d47423141c730e7032045c5fbac8/ ...
+elapsed time: 0.72s
+loading fact declarations ...
+elapsed time: 1.37s
+loading facts /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+...
+elapsed time: 16.54s
+setting main class to net.sourceforge.pmd.PMD
+loading context-insensitive declarations ...
+elapsed time: 3.17s
+loading context-insensitive delta rules ...
+elapsed time: 4.37s
+loading reflection delta rules ...
+elapsed time: 6.45s
+loading client delta rules ...
+elapsed time: 2.39s
+loading auxiliary delta rules ...
+elapsed time: 2.41s
+loading context-insensitive rules 
+...
+[1m[40m[33mPointer analysis START(B[m
+[1m[40m[37melapsed time: [1m[40m[32m74.15s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 10.59s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/context-insensitive/jre1.6-phantom/pmd-core-5.3.2.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m7713272(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m57.8(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m2948(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m4183(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m15254(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m104457(B[m
+Analyze [96mpmd[0m by [96mci[0m ...
+Computing [93mAliases[0m of [96mpmd[0m for [96mci[0m ...
+Dumping doop analysis results for pmd ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m86,502,490[0m
+
+Analyze [96mpmd[0m by [96mzipper-e[0m ...
+Dumping doop analysis results for pmd ...
+Analyze pmd ...
+Reading points-to analysis results ... 
+[1m[33mZipper starts ...[0m
+Precision loss patterns: [1m[32mDirect+Wrapped+Unwrapped[0m
+#Classes: [1m[32m1891[0m
+#Methods: [1m[32m15186[0m
+
+Building OFG (Object Flow Graph) ... 
+Object Flow Graph Timer elapsed time: 1.13s
+#nodes in OFG: [1m[32m156050[0m
+#edges in OFG: [1m[32m398663[0m
+
+Building PFGs (Precision Flow Graphs) and computing precision-critical methods ...
+#avg. nodes in PFG: [1m[32m2890[0m
+#avg. edges in PFG: [1m[32m7702[0m
+
+#whole-program points-to size: [1m[32m7713272[0m
+#PCM points-to size: [1m[32m4963093[0m
+#Precision-critical methods: [1m[32m2488[0m
+[1m[33mZipper finishes, analysis time: [0m[1m[32m10.31s[0m
+Writing Zipper precision-critical methods to /home/oopsla21-baton-artifact/doop/ptatoolkit/out/pmd-ZipperPrecisionCriticalMethod-zipper-e-0.05.facts ...
+
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32mnet.sourceforge.pmd.PMD(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32mnet.**(B[m
+using cached database (/home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/df7ccc174f9bf9afadbc6a57861365820650d47423141c730e7032045c5fbac8/)
+loading 2-object-sensitive+heap declarations ...
+elapsed time: 3.13s
+loading 2-object-sensitive+heap delta rules ...
+elapsed time: 4.41s
+loading reflection delta rules ...
+elapsed time: 6.41s
+loading client delta rules ...
+elapsed time: 2.62s
+loading auxiliary delta rules ...
+elapsed time: 2.81s
+loading 2-object-sensitive+heap rules 
+loading [1m[40m[33mcontext-sensitive methods(B[m from /home/oopsla21-baton-artifact/doop/ptatoolkit/out/pmd-ZipperPrecisionCriticalMethod-zipper-e-0.05.facts ...
+elapsed time: 2.24s
+...
+[1m[40m[33mPointer analysis START(B[m
+[1m[40m[37melapsed time: [1m[40m[32m374.93s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 19.24s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/2-object-sensitive+heap/jre1.6-phantom/pmd-core-5.3.2.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m2760540(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m21.1(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m2153(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m3634(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m14908(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m93516(B[m
+Computing [93mAliases[0m of [96mpmd[0m for [96mzipper-e[0m ...
+Dumping doop analysis results for pmd ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m29,809,145[0m
+
+Analyze [96mpmd[0m by [96mscaler[0m ...
+Dumping doop analysis results for pmd ...
+Analyze pmd ...
+Reading points-to analysis results ... 
+[1m[33mScaler starts ...[0m
+Given TST value: [1m[32m60000000[0m
+Selected ST value: [1m[32m121445[0m
+[1m[33mScaler finishes, analysis time: [0m[1m[32m0.69s[0m
+Writing Scaler method context sensitivities to /home/oopsla21-baton-artifact/doop/ptatoolkit/out/pmd-ScalerMethodContext-TST60000000.facts...
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32mnet.sourceforge.pmd.PMD(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32mnet.**(B[m
+using cached database (/home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/df7ccc174f9bf9afadbc6a57861365820650d47423141c730e7032045c5fbac8/)
+loading specified-sensitive+heap declarations ...
+elapsed time: 3.23s
+loading specified-sensitive+heap delta rules ...
+elapsed time: 4.87s
+loading reflection delta rules ...
+elapsed time: 6.66s
+loading client delta rules ...
+elapsed time: 2.55s
+loading auxiliary delta rules ...
+elapsed time: 2.53s
+loading specified-sensitive+heap rules 
+loading [1m[40m[33mspecified context variants(B[m from /home/oopsla21-baton-artifact/doop/ptatoolkit/out/pmd-ScalerMethodContext-TST60000000.facts ...
+elapsed time: 2.29s
+...
+[1m[40m[33mPointer analysis START(B[m
+<2022/12/07 02:37:11.564> WARN. apply delta has 316511573 deltas to apply
+<2022/12/07 02:37:13.728> WARN. apply delta is 3 % complete
+<2022/12/07 02:37:14.387> WARN. apply delta is 4 % complete
+<2022/12/07 02:37:19.963> WARN. apply delta is 12 % complete
+<2022/12/07 02:37:21.282> WARN. apply delta is 14 % complete
+<2022/12/07 02:37:21.326> WARN. apply delta for array predicate VarPointsTo has 162971471 deltas to apply
+<2022/12/07 02:37:58.217> WARN. apply delta is 65 % complete
+<2022/12/07 02:37:58.973> WARN. apply delta is 67 % complete
+<2022/12/07 02:38:00.046> WARN. apply delta is 69 % complete
+<2022/12/07 02:38:05.393> WARN. apply delta is 79 % complete
+<2022/12/07 02:38:15.897> WARN. apply delta is 98 % complete
+<2022/12/07 02:38:16.425> WARN. apply delta is 99 % complete
+<2022/12/07 02:38:16.425> WARN. apply delta is 100 % complete
+[1m[40m[37melapsed time: [1m[40m[32m1843.00s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 40.26s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/specified-sensitive+heap/jre1.6-phantom/pmd-core-5.3.2.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m2282726(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m17.5(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m2080(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m3498(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m14839(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m92439(B[m
+Computing [93mAliases[0m of [96mpmd[0m for [96mscaler[0m ...
+Dumping doop analysis results for pmd ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m26,945,008[0m
+
+Analyze [96mpmd[0m by [96mbaton-relay[0m ...
+Obtaining results of selective approaches ...
+Dumping doop analysis results for pmd ...
+Dumping doop analysis results for pmd ...
+Analyze pmd ...
+Reading points-to analysis results ... 
+[1m[33mZipper starts ...[0m
+Precision loss patterns: [1m[32mDirect+Wrapped+Unwrapped[0m
+#Classes: [1m[32m1891[0m
+#Methods: [1m[32m15186[0m
+
+Building OFG (Object Flow Graph) ... 
+Object Flow Graph Timer elapsed time: 1.25s
+#nodes in OFG: [1m[32m156050[0m
+#edges in OFG: [1m[32m398663[0m
+
+Building PFGs (Precision Flow Graphs) and computing precision-critical methods ...
+#avg. nodes in PFG: [1m[32m2890[0m
+#avg. edges in PFG: [1m[32m7702[0m
+
+#whole-program points-to size: [1m[32m7713272[0m
+#PCM points-to size: [1m[32m4963093[0m
+#Precision-critical methods: [1m[32m2488[0m
+[1m[33mZipper finishes, analysis time: [0m[1m[32m10.92s[0m
+Writing Zipper precision-critical methods to /home/oopsla21-baton-artifact/doop/ptatoolkit/out/pmd-ZipperPrecisionCriticalMethod-zipper-e-0.05.facts ...
+
+Dumping doop analysis results for pmd ...
+Analyze pmd ...
+Reading points-to analysis results ... 
+[1m[33mScaler starts ...[0m
+Given TST value: [1m[32m60000000[0m
+Selected ST value: [1m[32m121445[0m
+[1m[33mScaler finishes, analysis time: [0m[1m[32m0.72s[0m
+Writing Scaler method context sensitivities to /home/oopsla21-baton-artifact/doop/ptatoolkit/out/pmd-ScalerMethodContext-TST60000000.facts...
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32mnet.sourceforge.pmd.PMD(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32mnet.**(B[m
+using cached database (/home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/df7ccc174f9bf9afadbc6a57861365820650d47423141c730e7032045c5fbac8/)
+loading 3-object-sensitive+2-heap declarations ...
+elapsed time: 3.37s
+loading 3-object-sensitive+2-heap delta rules ...
+elapsed time: 4.56s
+loading reflection delta rules ...
+elapsed time: 6.71s
+loading client delta rules ...
+elapsed time: 2.66s
+loading auxiliary delta rules ...
+elapsed time: 2.61s
+loading 3-object-sensitive+2-heap rules 
+loading [1m[40m[33mcontext-sensitive methods(B[m from /home/oopsla21-baton-artifact/doop/ptatoolkit/cache/pmd.COLLECTION_METHODS ...
+elapsed time: 2.37s
+...
+[1m[40m[33mPointer analysis START(B[m
+[1m[40m[37melapsed time: [1m[40m[32m67.25s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 6.93s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/3-object-sensitive+2-heap/jre1.6-phantom/pmd-core-5.3.2.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m2765814(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m21.1(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m2237(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m3684(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m14967(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m94750(B[m
+Analyzing [96mpmd[0m, [96mbaton-relay pass 1[0m (colletion) ...
+Computing [93mAliases[0m of [96mpmd[0m for [96mbaton-relayo1-p1[0m ...
+Dumping doop analysis results for pmd ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m28,677,101[0m
+
+Analyzing [96mpmd[0m, [96mbaton-relay pass 2[0m (zipper-e) ...
+Dumping doop analysis results for pmd ...
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32mnet.sourceforge.pmd.PMD(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32mnet.**(B[m
+using cached database (/home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/df7ccc174f9bf9afadbc6a57861365820650d47423141c730e7032045c5fbac8/)
+loading specified-3-sensitive+2-heap declarations ...
+elapsed time: 3.41s
+loading specified-3-sensitive+2-heap delta rules ...
+elapsed time: 4.58s
+loading reflection delta rules ...
+elapsed time: 6.73s
+loading client delta rules ...
+elapsed time: 2.69s
+loading auxiliary delta rules ...
+elapsed time: 2.73s
+loading specified-3-sensitive+2-heap rules 
+loading [1m[40m[33mprecise var points-to(B[m from /home/oopsla21-baton-artifact/doop/ptatoolkit/cache/pmd.VPT ...
+elapsed time: 7.06s
+loading [1m[40m[33mspecified context variants(B[m from /home/oopsla21-baton-artifact/doop/tmp/pmd-p2.SPECIFIEDCS ...
+elapsed time: 2.56s
+...
+[1m[40m[33mPointer analysis START(B[m
+<2022/12/07 03:06:01.486> WARN. apply delta has 419252372 deltas to apply
+<2022/12/07 03:06:02.314> WARN. apply delta is 1 % complete
+<2022/12/07 03:06:02.896> WARN. apply delta is 3 % complete
+<2022/12/07 03:06:03.458> WARN. apply delta is 4 % complete
+<2022/12/07 03:06:03.650> WARN. apply delta for array predicate MergeBasis has 108326325 deltas to apply
+<2022/12/07 03:07:55.585> WARN. apply delta is 30 % complete
+<2022/12/07 03:08:00.289> WARN. apply delta is 36 % complete
+<2022/12/07 03:08:01.157> WARN. apply delta is 37 % complete
+<2022/12/07 03:08:01.157> WARN. apply delta for array predicate VarPointsTo has 223177106 deltas to apply
+<2022/12/07 03:09:02.844> WARN. apply delta is 90 % complete
+<2022/12/07 03:09:06.316> WARN. apply delta is 95 % complete
+<2022/12/07 03:09:07.252> WARN. apply delta is 96 % complete
+<2022/12/07 03:09:07.419> WARN. apply delta is 97 % complete
+<2022/12/07 03:09:09.915> WARN. apply delta is 99 % complete
+<2022/12/07 03:09:10.073> WARN. apply delta is 100 % complete
+[1m[40m[37melapsed time: [1m[40m[32m1401.17s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 47.16s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/specified-3-sensitive+2-heap/jre1.6-phantom/pmd-core-5.3.2.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m2558733(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m19.6(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m2072(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m3616(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m14891(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m93164(B[m
+Computing [93mAliases[0m of [96mpmd[0m for [96mbaton-relayo1-p2[0m ...
+Dumping doop analysis results for pmd ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m26,892,448[0m
+
+Analyzing [96mpmd[0m, [96mbaton-relay pass 3[0m (scaler) ...
+Dumping doop analysis results for pmd ...
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32mnet.sourceforge.pmd.PMD(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32mnet.**(B[m
+using cached database (/home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/df7ccc174f9bf9afadbc6a57861365820650d47423141c730e7032045c5fbac8/)
+loading specified-3-sensitive+2-heap declarations ...
+elapsed time: 3.48s
+loading specified-3-sensitive+2-heap delta rules ...
+elapsed time: 4.64s
+loading reflection delta rules ...
+elapsed time: 6.77s
+loading client delta rules ...
+elapsed time: 2.80s
+loading auxiliary delta rules ...
+elapsed time: 2.83s
+loading specified-3-sensitive+2-heap rules 
+loading [1m[40m[33mprecise var points-to(B[m from /home/oopsla21-baton-artifact/doop/ptatoolkit/cache/pmd.VPT ...
+elapsed time: 7.50s
+loading [1m[40m[33mspecified context variants(B[m from /home/oopsla21-baton-artifact/doop/tmp/pmd-p3.SPECIFIEDCS ...
+elapsed time: 2.44s
+...
+[1m[40m[33mPointer analysis START(B[m
+<2022/12/07 04:28:25.383> WARN. apply delta has 697773884 deltas to apply
+<2022/12/07 04:28:26.441> WARN. apply delta is 1 % complete
+<2022/12/07 04:28:27.348> WARN. apply delta is 2 % complete
+<2022/12/07 04:28:30.727> WARN. apply delta is 4 % complete
+<2022/12/07 04:28:30.868> WARN. apply delta is 5 % complete
+<2022/12/07 04:28:46.154> WARN. apply delta is 17 % complete
+<2022/12/07 04:29:01.283> WARN. apply delta is 26 % complete
+<2022/12/07 04:29:03.146> WARN. apply delta is 27 % complete
+<2022/12/07 04:29:03.146> WARN. apply delta for array predicate VarPointsTo has 355826850 deltas to apply
+<2022/12/07 04:30:30.069> WARN. apply delta is 78 % complete
+<2022/12/07 04:30:30.072> WARN. apply delta for array predicate MergeBasis has 127477532 deltas to apply
+<2022/12/07 04:30:53.773> WARN. apply delta is 97 % complete
+<2022/12/07 04:30:55.468> WARN. apply delta is 98 % complete
+<2022/12/07 04:30:56.133> WARN. apply delta is 99 % complete
+<2022/12/07 04:30:56.651> WARN. apply delta is 100 % complete
+[1m[40m[37melapsed time: [1m[40m[32m4780.61s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 81.04s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/specified-3-sensitive+2-heap/jre1.6-phantom/pmd-core-5.3.2.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m2142179(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m16.5(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m1958(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m3462(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m14802(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m91764(B[m
+Computing [93mAliases[0m of [96mpmd[0m for [96mbaton-relayo1-p3[0m ...
+Dumping doop analysis results for pmd ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m24,966,489[0m
+

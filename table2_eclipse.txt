@@ -1,0 +1,367 @@
+nohup: ignoring input
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32mdacapo.eclipse.Main(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32mGcCallback:Harness:MMTkCallback:MMTkHarness:MyCallback:dacapo.**:org.**(B[m
+generating facts (jars/eclipse/eclipse.jar  jars/eclipse/eclipse-deps.jar) in /home/oopsla21-baton-artifact/doop/cache/input-facts/jre1.6-phantom/11ddbda4f27087a315aa7b845cc975eb7b370568db8f75592682be7a6ad71d75/ /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+...
+Adding archive: jars/eclipse/eclipse.jar
+Adding archive for resolving: /home/oopsla21-baton-artifact/doop/externals/jre1.6/lib/rt.jar
+Adding archive for resolving: /home/oopsla21-baton-artifact/doop/externals/jre1.6/lib/jce.jar
+Adding archive for resolving: /home/oopsla21-baton-artifact/doop/externals/jre1.6/lib/jsse.jar
+Adding archive for resolving: jars/eclipse/eclipse-deps.jar
+Warning: com.sun.jdi.VirtualMachine is a phantom class!
+Warning: com.sun.jdi.connect.Connector$IntegerArgument is a phantom class!
+Warning: org.eclipse.jdi.Bootstrap is a phantom class!
+Warning: com.sun.jdi.connect.ListeningConnector is a phantom class!
+Warning: org.eclipse.jdt.debug.core.JDIDebugModel is a phantom class!
+Warning: com.sun.jdi.VirtualMachineManager is a phantom class!
+Warning: com.sun.jdi.connect.IllegalConnectorArgumentsException is a phantom class!
+Warning: com.sun.jdi.VMDisconnectedException is a phantom class!
+Warning: com.sun.jdi.connect.Connector$Argument is a phantom class!
+Warning: org.eclipse.jdi.TimeoutException is a phantom class!
+Warning: com.sun.jdi.connect.AttachingConnector is a phantom class!
+Warning: java.dyn.InvokeDynamic is a phantom class!
+elapsed time: 64.26s
+creating database in /home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/11ddbda4f27087a315aa7b845cc975eb7b370568db8f75592682be7a6ad71d75/ ...
+elapsed time: 0.65s
+loading fact declarations ...
+elapsed time: 1.43s
+loading facts /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+...
+elapsed time: 13.63s
+setting main class to dacapo.eclipse.Main
+loading context-insensitive declarations ...
+elapsed time: 3.05s
+loading context-insensitive delta rules ...
+elapsed time: 4.15s
+loading reflection delta rules ...
+elapsed time: 5.39s
+loading client delta rules ...
+elapsed time: 2.22s
+loading auxiliary delta rules ...
+elapsed time: 2.19s
+loading context-insensitive rules 
+...
+[1m[40m[33mPointer analysis START(B[m
+[1m[40m[37melapsed time: [1m[40m[32m120.80s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 19.60s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/context-insensitive/jre1.6-phantom/eclipse.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m24841670(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m123.4(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m4190(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m9197(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m20862(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m161222(B[m
+Analyze [96meclipse[0m by [96mci[0m ...
+Computing [93mAliases[0m of [96meclipse[0m for [96mci[0m ...
+Dumping doop analysis results for eclipse ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m261,199,033[0m
+
+Analyze [96meclipse[0m by [96mzipper-e[0m ...
+Dumping doop analysis results for eclipse ...
+Analyze eclipse ...
+Reading points-to analysis results ... 
+[1m[33mZipper starts ...[0m
+Precision loss patterns: [1m[32mDirect+Wrapped+Unwrapped[0m
+#Classes: [1m[32m2346[0m
+#Methods: [1m[32m20708[0m
+
+Building OFG (Object Flow Graph) ... 
+Object Flow Graph Timer elapsed time: 2.25s
+#nodes in OFG: [1m[32m236076[0m
+#edges in OFG: [1m[32m753906[0m
+
+Building PFGs (Precision Flow Graphs) and computing precision-critical methods ...
+#avg. nodes in PFG: [1m[32m3407[0m
+#avg. edges in PFG: [1m[32m9726[0m
+
+#whole-program points-to size: [1m[32m24841670[0m
+#PCM points-to size: [1m[32m18503507[0m
+#Precision-critical methods: [1m[32m3040[0m
+[1m[33mZipper finishes, analysis time: [0m[1m[32m16.38s[0m
+Writing Zipper precision-critical methods to /home/oopsla21-baton-artifact/doop/ptatoolkit/out/eclipse-ZipperPrecisionCriticalMethod-zipper-e-0.05.facts ...
+
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32mdacapo.eclipse.Main(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32mGcCallback:Harness:MMTkCallback:MMTkHarness:MyCallback:dacapo.**:org.**(B[m
+using cached database (/home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/11ddbda4f27087a315aa7b845cc975eb7b370568db8f75592682be7a6ad71d75/)
+loading 2-object-sensitive+heap declarations ...
+elapsed time: 3.25s
+loading 2-object-sensitive+heap delta rules ...
+elapsed time: 4.31s
+loading reflection delta rules ...
+elapsed time: 5.35s
+loading client delta rules ...
+elapsed time: 2.39s
+loading auxiliary delta rules ...
+elapsed time: 2.31s
+loading 2-object-sensitive+heap rules 
+loading [1m[40m[33mcontext-sensitive methods(B[m from /home/oopsla21-baton-artifact/doop/ptatoolkit/out/eclipse-ZipperPrecisionCriticalMethod-zipper-e-0.05.facts ...
+elapsed time: 2.02s
+...
+[1m[40m[33mPointer analysis START(B[m
+[1m[40m[37melapsed time: [1m[40m[32m2629.19s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 31.21s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/2-object-sensitive+heap/jre1.6-phantom/eclipse.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m11848840(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m59.8(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m3223(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m8599(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m20499(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m148037(B[m
+Computing [93mAliases[0m of [96meclipse[0m for [96mzipper-e[0m ...
+Dumping doop analysis results for eclipse ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m90,933,963[0m
+
+Analyze [96meclipse[0m by [96mscaler[0m ...
+Dumping doop analysis results for eclipse ...
+Analyze eclipse ...
+Reading points-to analysis results ... 
+[1m[33mScaler starts ...[0m
+Given TST value: [1m[32m60000000[0m
+Selected ST value: [1m[32m42701[0m
+[1m[33mScaler finishes, analysis time: [0m[1m[32m1.09s[0m
+Writing Scaler method context sensitivities to /home/oopsla21-baton-artifact/doop/ptatoolkit/out/eclipse-ScalerMethodContext-TST60000000.facts...
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32mdacapo.eclipse.Main(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32mGcCallback:Harness:MMTkCallback:MMTkHarness:MyCallback:dacapo.**:org.**(B[m
+using cached database (/home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/11ddbda4f27087a315aa7b845cc975eb7b370568db8f75592682be7a6ad71d75/)
+loading specified-sensitive+heap declarations ...
+elapsed time: 3.08s
+loading specified-sensitive+heap delta rules ...
+elapsed time: 4.28s
+loading reflection delta rules ...
+elapsed time: 5.57s
+loading client delta rules ...
+elapsed time: 2.42s
+loading auxiliary delta rules ...
+elapsed time: 2.48s
+loading specified-sensitive+heap rules 
+loading [1m[40m[33mspecified context variants(B[m from /home/oopsla21-baton-artifact/doop/ptatoolkit/out/eclipse-ScalerMethodContext-TST60000000.facts ...
+elapsed time: 2.21s
+...
+[1m[40m[33mPointer analysis START(B[m
+<2022/12/07 02:01:15.751> WARN. apply delta has 319722796 deltas to apply
+<2022/12/07 02:01:16.407> WARN. apply delta is 1 % complete
+<2022/12/07 02:01:16.465> WARN. apply delta is 2 % complete
+<2022/12/07 02:01:16.892> WARN. apply delta is 3 % complete
+<2022/12/07 02:01:17.041> WARN. apply delta is 4 % complete
+<2022/12/07 02:02:33.985> WARN. apply delta is 23 % complete
+<2022/12/07 02:02:34.788> WARN. apply delta is 25 % complete
+<2022/12/07 02:02:36.833> WARN. apply delta is 28 % complete
+<2022/12/07 02:02:36.845> WARN. apply delta for array predicate VarPointsTo has 199006384 deltas to apply
+<2022/12/07 02:03:29.831> WARN. apply delta is 90 % complete
+<2022/12/07 02:03:33.862> WARN. apply delta is 96 % complete
+<2022/12/07 02:03:34.438> WARN. apply delta is 97 % complete
+<2022/12/07 02:03:35.093> WARN. apply delta is 98 % complete
+<2022/12/07 02:03:35.721> WARN. apply delta is 99 % complete
+<2022/12/07 02:03:36.069> WARN. apply delta is 100 % complete
+[1m[40m[37melapsed time: [1m[40m[32m1273.93s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 52.05s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/specified-sensitive+heap/jre1.6-phantom/eclipse.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m10975564(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m55.7(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m3170(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m8448(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m20352(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m145412(B[m
+Computing [93mAliases[0m of [96meclipse[0m for [96mscaler[0m ...
+Dumping doop analysis results for eclipse ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m72,760,368[0m
+
+Analyze [96meclipse[0m by [96mbaton-relay[0m ...
+Obtaining results of selective approaches ...
+Dumping doop analysis results for eclipse ...
+Dumping doop analysis results for eclipse ...
+Analyze eclipse ...
+Reading points-to analysis results ... 
+[1m[33mZipper starts ...[0m
+Precision loss patterns: [1m[32mDirect+Wrapped+Unwrapped[0m
+#Classes: [1m[32m2346[0m
+#Methods: [1m[32m20708[0m
+
+Building OFG (Object Flow Graph) ... 
+Object Flow Graph Timer elapsed time: 2.35s
+#nodes in OFG: [1m[32m236076[0m
+#edges in OFG: [1m[32m753906[0m
+
+Building PFGs (Precision Flow Graphs) and computing precision-critical methods ...
+#avg. nodes in PFG: [1m[32m3407[0m
+#avg. edges in PFG: [1m[32m9726[0m
+
+#whole-program points-to size: [1m[32m24841670[0m
+#PCM points-to size: [1m[32m18503507[0m
+#Precision-critical methods: [1m[32m3040[0m
+[1m[33mZipper finishes, analysis time: [0m[1m[32m16.11s[0m
+Writing Zipper precision-critical methods to /home/oopsla21-baton-artifact/doop/ptatoolkit/out/eclipse-ZipperPrecisionCriticalMethod-zipper-e-0.05.facts ...
+
+Dumping doop analysis results for eclipse ...
+Analyze eclipse ...
+Reading points-to analysis results ... 
+[1m[33mScaler starts ...[0m
+Given TST value: [1m[32m60000000[0m
+Selected ST value: [1m[32m42701[0m
+[1m[33mScaler finishes, analysis time: [0m[1m[32m2.89s[0m
+Writing Scaler method context sensitivities to /home/oopsla21-baton-artifact/doop/ptatoolkit/out/eclipse-ScalerMethodContext-TST60000000.facts...
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32mdacapo.eclipse.Main(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32mGcCallback:Harness:MMTkCallback:MMTkHarness:MyCallback:dacapo.**:org.**(B[m
+using cached database (/home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/11ddbda4f27087a315aa7b845cc975eb7b370568db8f75592682be7a6ad71d75/)
+loading 3-object-sensitive+2-heap declarations ...
+elapsed time: 3.39s
+loading 3-object-sensitive+2-heap delta rules ...
+elapsed time: 4.91s
+loading reflection delta rules ...
+elapsed time: 9.23s
+loading client delta rules ...
+elapsed time: 4.02s
+loading auxiliary delta rules ...
+elapsed time: 3.27s
+loading 3-object-sensitive+2-heap rules 
+loading [1m[40m[33mcontext-sensitive methods(B[m from /home/oopsla21-baton-artifact/doop/ptatoolkit/cache/eclipse.COLLECTION_METHODS ...
+elapsed time: 2.55s
+...
+[1m[40m[33mPointer analysis START(B[m
+[1m[40m[37melapsed time: [1m[40m[32m107.71s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 14.35s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/3-object-sensitive+2-heap/jre1.6-phantom/eclipse.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m11366316(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m57.4(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m3266(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m8657(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m20523(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m146770(B[m
+Analyzing [96meclipse[0m, [96mbaton-relay pass 1[0m (colletion) ...
+Computing [93mAliases[0m of [96meclipse[0m for [96mbaton-relayo1-p1[0m ...
+Dumping doop analysis results for eclipse ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m70,520,064[0m
+
+Analyzing [96meclipse[0m, [96mbaton-relay pass 2[0m (zipper-e) ...
+Dumping doop analysis results for eclipse ...
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32mdacapo.eclipse.Main(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32mGcCallback:Harness:MMTkCallback:MMTkHarness:MyCallback:dacapo.**:org.**(B[m
+using cached database (/home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/11ddbda4f27087a315aa7b845cc975eb7b370568db8f75592682be7a6ad71d75/)
+loading specified-3-sensitive+2-heap declarations ...
+elapsed time: 2.98s
+loading specified-3-sensitive+2-heap delta rules ...
+elapsed time: 4.05s
+loading reflection delta rules ...
+elapsed time: 5.32s
+loading client delta rules ...
+elapsed time: 2.28s
+loading auxiliary delta rules ...
+elapsed time: 2.34s
+loading specified-3-sensitive+2-heap rules 
+loading [1m[40m[33mprecise var points-to(B[m from /home/oopsla21-baton-artifact/doop/ptatoolkit/cache/eclipse.VPT ...
+elapsed time: 23.47s
+loading [1m[40m[33mspecified context variants(B[m from /home/oopsla21-baton-artifact/doop/tmp/eclipse-p2.SPECIFIEDCS ...
+elapsed time: 2.04s
+...
+[1m[40m[33mPointer analysis START(B[m
+[1m[40m[37melapsed time: [1m[40m[32m2832.21s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 29.65s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/specified-3-sensitive+2-heap/jre1.6-phantom/eclipse.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m10484964(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m53.2(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m3003(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m8534(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m20426(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m145849(B[m
+Computing [93mAliases[0m of [96meclipse[0m for [96mbaton-relayo1-p2[0m ...
+Dumping doop analysis results for eclipse ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m65,384,654[0m
+
+Analyzing [96meclipse[0m, [96mbaton-relay pass 3[0m (scaler) ...
+Dumping doop analysis results for eclipse ...
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Bloxbatch-Options: 
+[1m[40m[37mMain-Class: [1m[40m[32mdacapo.eclipse.Main(B[m
+[1m[40m[37mApplication-Classes: [1m[40m[32mGcCallback:Harness:MMTkCallback:MMTkHarness:MyCallback:dacapo.**:org.**(B[m
+using cached database (/home/oopsla21-baton-artifact/doop/cache/input-database/jre1.6-phantom/11ddbda4f27087a315aa7b845cc975eb7b370568db8f75592682be7a6ad71d75/)
+loading specified-3-sensitive+2-heap declarations ...
+elapsed time: 3.08s
+loading specified-3-sensitive+2-heap delta rules ...
+elapsed time: 4.22s
+loading reflection delta rules ...
+elapsed time: 5.88s
+loading client delta rules ...
+elapsed time: 2.49s
+loading auxiliary delta rules ...
+elapsed time: 2.47s
+loading specified-3-sensitive+2-heap rules 
+loading [1m[40m[33mprecise var points-to(B[m from /home/oopsla21-baton-artifact/doop/ptatoolkit/cache/eclipse.VPT ...
+elapsed time: 21.58s
+loading [1m[40m[33mspecified context variants(B[m from /home/oopsla21-baton-artifact/doop/tmp/eclipse-p3.SPECIFIEDCS ...
+elapsed time: 2.25s
+...
+[1m[40m[33mPointer analysis START(B[m
+<2022/12/07 03:53:10.276> WARN. apply delta has 430251767 deltas to apply
+<2022/12/07 03:53:11.072> WARN. apply delta is 1 % complete
+<2022/12/07 03:53:11.605> WARN. apply delta is 3 % complete
+<2022/12/07 03:53:12.288> WARN. apply delta is 4 % complete
+<2022/12/07 03:53:27.223> WARN. apply delta is 22 % complete
+<2022/12/07 03:53:30.584> WARN. apply delta is 27 % complete
+<2022/12/07 03:53:31.658> WARN. apply delta is 28 % complete
+<2022/12/07 03:53:36.071> WARN. apply delta is 32 % complete
+<2022/12/07 03:53:40.366> WARN. apply delta is 37 % complete
+<2022/12/07 03:53:40.366> WARN. apply delta for array predicate VarPointsTo has 253585417 deltas to apply
+<2022/12/07 03:54:36.254> WARN. apply delta is 96 % complete
+<2022/12/07 03:54:37.280> WARN. apply delta is 97 % complete
+<2022/12/07 03:54:37.585> WARN. apply delta is 98 % complete
+<2022/12/07 03:54:37.880> WARN. apply delta is 99 % complete
+<2022/12/07 03:54:38.357> WARN. apply delta is 100 % complete
+[1m[40m[37melapsed time: [1m[40m[32m2689.42s(B[m
+[1m[40m[33mPointer analysis FINISH(B[m
+loading statistics (simple) ...
+elapsed time: 61.97s
+[1m[40m[37mmaking database available at [1m[40m[32m/home/oopsla21-baton-artifact/doop/results/specified-3-sensitive+2-heap/jre1.6-phantom/eclipse.jar(B[m
+[1m[40m[37mmaking database available at [1m[40m[32mlast-analysis(B[m
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[1m[40m[33mVarPts (var points-to)                       (B[m[1m[40m[32m9865071(B[m
+[1m[40m[33mAvgPts (avg. objects per variable)           (B[m[1m[40m[32m50.7(B[m
+[1m[40m[33mFCasts (reachable casts that may fail)       (B[m[1m[40m[32m2823(B[m
+[1m[40m[33mPCalls (polymorphic virtual call sites)      (B[m[1m[40m[32m8335(B[m
+[1m[40m[33mRMtds  (reachable methods)                   (B[m[1m[40m[32m20127(B[m
+[1m[40m[33mCEdges (call graph edges)                    (B[m[1m[40m[32m143046(B[m
+Computing [93mAliases[0m of [96meclipse[0m for [96mbaton-relayo1-p3[0m ...
+Dumping doop analysis results for eclipse ...
+Reading points-to analysis results ... 
+Computing alias pairs ... 
+[1m[33mAliases (may-alias variable pairs)           [0m[1m[32m62,549,586[0m
+
